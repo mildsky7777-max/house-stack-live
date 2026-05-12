@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>House Stack — Live</title>
+<meta name="description" content="X automation stack running on one laptop. Live status. Real receipts.">
+<meta property="og:title" content="House Stack — Live">
+<meta property="og:description" content="Real-time status of an X automation stack. Heartbeat, drafts, engagement scores, all public.">
+<style>
+  * { box-sizing: border-box; }
+  body { margin:0; padding:0; background:#0d1117; color:#e6edf3;
+    font: 14px/1.55 ui-monospace,SFMono-Regular,Menlo,monospace; }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 32px 24px 80px; }
+  h1 { font-size: 24px; margin: 0 0 4px; color: #2ea043; }
+  .sub { color: #7d8590; margin: 0 0 24px; font-size: 13px; }
+  .sub a { color: #58a6ff; text-decoration: none; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; margin-bottom: 24px; }
+  .card { background:#161b22; border:1px solid #30363d; border-radius:8px; padding:14px 16px; }
+  .card h3 { margin: 0 0 8px; font-size:12px; color:#7d8590; text-transform: uppercase; letter-spacing: 0.5px; font-weight:600; }
+  .big { font-size: 28px; color: #e6edf3; font-weight: 600; }
+  .small { font-size: 12px; color: #7d8590; margin-top: 4px; }
+  .ok { color: #2ea043; }
+  .warn { color: #d29922; }
+  .bad { color: #f85149; }
+  .section { background:#161b22; border:1px solid #30363d; border-radius:8px; padding:18px 20px; margin-bottom:16px; }
+  .section h2 { font-size:14px; color:#ffa657; margin:0 0 12px; font-weight:600; }
+  .row { padding: 8px 0; border-bottom: 1px dashed #30363d; display: flex; justify-content: space-between; gap: 12px; align-items: baseline; font-size:13px; }
+  .row:last-child { border-bottom: none; }
+  .row .left { color: #e6edf3; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .row .right { color: #7d8590; font-size: 12px; white-space: nowrap; }
+  .footer { margin-top: 32px; padding-top: 16px; border-top:1px solid #30363d; color:#7d8590; font-size:11px; text-align:center; }
+  .footer a { color:#58a6ff; text-decoration:none; }
+  .pulse { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #2ea043; margin-right: 6px; animation: p 2s infinite; }
+  @keyframes p { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1><span class="pulse"></span>house stack — live</h1>
+  <p class="sub">X automation stack from one laptop. last update: <span id="updated">...</span> · <a href="https://github.com/mildsky7777-max/house-x-template">source</a> · <a href="https://mildsky7777-max.github.io/ai-tell-catcher/">try the gate</a></p>
+
+  <div class="grid">
+    <div class="card"><h3>followers</h3><div class="big" id="followers">—</div><div class="small">on @mildsky1215</div></div>
+    <div class="card"><h3>posts today</h3><div class="big" id="posts-today">—</div><div class="small">auto-published</div></div>
+    <div class="card"><h3>mandate compliance</h3><div class="big ok" id="compliance">—</div><div class="small">pending drafts</div></div>
+    <div class="card"><h3>heartbeat</h3><div class="big" id="heartbeat-status">—</div><div class="small">scanners ok</div></div>
+  </div>
+
+  <div class="section">
+    <h2>recent posts</h2>
+    <div id="recent-posts"></div>
+  </div>
+
+  <div class="section">
+    <h2>top by engagement score (last 7d)</h2>
+    <div id="top-posts"></div>
+  </div>
+
+  <div class="section">
+    <h2>scanner cron status</h2>
+    <div id="scanner-status"></div>
+  </div>
+
+  <div class="footer">
+    auto-updated by <code>house_dashboard.py</code> cron · korean indie, MIT license · <a href="https://github.com/mildsky7777-max/house-x-template">fork the stack</a>
+  </div>
+</div>
+
+<script>
+// Data is loaded from same-directory JSON files (committed by cron).
+// 5-min cache. Refresh every 5 min if user keeps page open.
+async function load() {
+  try {
+    const r = await fetch('data.json?t=' + Date.now());
+    if (!r.ok) throw new Error('no data');
+    const d = await r.json();
+    render(d);
+  } catch (e) {
+    document.getElementById('updated').textContent = '(data unavailable: ' + e.message + ')';
+  }
+}
+
+function render(d) {
+  document.getElementById('updated').textContent = d.updated_at || '—';
+  document.getElementById('followers').textContent = d.followers ?? '—';
+  document.getElementById('posts-today').textContent = d.posts_today ?? 0;
+  const comp = d.mandate_compliance;
+  const ce = document.getElementById('compliance');
+  if (comp == null) { ce.textContent = '—'; }
+  else {
+    ce.textContent = Math.round(comp * 100) + '%';
+    ce.className = 'big ' + (comp >= 0.9 ? 'ok' : comp >= 0.7 ? 'warn' : 'bad');
+  }
+  const hb = d.heartbeat || {};
+  const okCount = (hb.scanners || []).filter(s => s.ok).length;
+  const total = (hb.scanners || []).length;
+  const he = document.getElementById('heartbeat-status');
+  he.textContent = `${okCount}/${total}`;
+  he.className = 'big ' + (okCount === total ? 'ok' : okCount >= total - 1 ? 'warn' : 'bad');
+
+  // Recent posts
+  const rp = document.getElementById('recent-posts');
+  rp.innerHTML = (d.recent_posts || []).slice(0,10).map(p =>
+    `<div class="row"><div class="left">${escape_(p.text || '').slice(0,100)}</div><div class="right">${p.time || ''}</div></div>`
+  ).join('') || '<div class="row"><div class="left">(none yet)</div></div>';
+
+  // Top posts
+  const tp = document.getElementById('top-posts');
+  tp.innerHTML = (d.top_posts || []).slice(0,5).map(p =>
+    `<div class="row"><div class="left">${escape_(p.text || '').slice(0,100)}</div><div class="right">score ${p.score} · ${p.engagement}</div></div>`
+  ).join('') || '<div class="row"><div class="left">(no data yet)</div></div>';
+
+  // Scanner status
+  const ss = document.getElementById('scanner-status');
+  ss.innerHTML = (hb.scanners || []).map(s =>
+    `<div class="row"><div class="left">${s.ok?'✓':'✗'} ${s.name}</div><div class="right">${s.age_hours ?? '—'}h ago</div></div>`
+  ).join('');
+}
+
+function escape_(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+load();
+setInterval(load, 5 * 60 * 1000);
+</script>
+</body>
+</html>
