@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-13 08:15 KST",
-  "posts_today": 1,
+  "updated_at": "2026-05-13 10:15 KST",
+  "posts_today": 3,
   "recent_posts": [
+    {
+      "text": "reuters opinion: AI labs starting consulting arms 'defies corporate history.'  every prior tech transition, labs handed ",
+      "time": "05-13 09:43"
+    },
+    {
+      "text": "calbee monochroming 14 SKUs is the iran-war headline most people actually register. supply chain → snack shelf is shorte",
+      "time": "05-13 09:07"
+    },
     {
       "text": "capcut started charging for basics last week. opencut hit 49k stars on github overnight.  korean shorts creators are the",
       "time": "05-13 07:44"
@@ -33,14 +41,6 @@
     {
       "text": "nintendo dropped 9% after earnings — switch 2 price hikes overshot, games shortfall.  every generation's price test even",
       "time": "05-12 19:05"
-    },
-    {
-      "text": "walmart's new self-checkout lanes use cameras + AI to recognize items.  stated reason: speed up scanning. real reason in",
-      "time": "05-12 18:20"
-    },
-    {
-      "text": "$1.4T anthropic, secondary market. +40% in 24 days.  then anthropic publishes: any sale or transfer without board approv",
-      "time": "05-12 17:44"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.2
+        "age_hours": 0.2
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.08
+        "age_hours": 0.09
       }
     ]
   },
