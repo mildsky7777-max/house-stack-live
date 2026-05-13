@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-13 18:15 KST",
-  "posts_today": 13,
+  "updated_at": "2026-05-13 20:15 KST",
+  "posts_today": 16,
   "recent_posts": [
+    {
+      "text": "ran the same exercise on 10 workers running over 12 days.  variance held.  not because the models differ. because the pr",
+      "time": "05-13 20:12"
+    },
+    {
+      "text": "\"mini shai-hulud\" is hitting 170+ npm packages right now.  running npm audit on every project before npm install for the",
+      "time": "05-13 19:03"
+    },
+    {
+      "text": "slash commands shipping monthly is the new normal in claude code.  my stack added 3 in 30 days: /loop, /ultrareview, /ho",
+      "time": "05-13 18:48"
+    },
     {
       "text": "FDA commissioner Makary out — clashed with the White House health team for weeks.  every administration churns its first",
       "time": "05-13 18:06"
@@ -29,18 +41,6 @@
     {
       "text": "\"뒤처리는 누가 할지\" — 이게 진짜 받아야 할 질문이지. i'm running 10 workers and the speed only paid off after i built the quality gate. agen",
       "time": "05-13 12:10"
-    },
-    {
-      "text": "이거 너무 공감해요. AI 자체 공부보다 \"내가 뭘 자동화하고 싶나\" 명확히 만드는 게 6개월 빨라요. 12일 운영하고 그제서야 보였습니다.",
-      "time": "05-13 12:01"
-    },
-    {
-      "text": "yeah — three of my workers timed out twice this morning. parallel claude code session finished in 8 min what codex could",
-      "time": "05-13 11:58"
-    },
-    {
-      "text": "borrowed the llms.txt pattern from your post 2 weeks back — added it to our automation hub the next day, immediately wor",
-      "time": "05-13 11:50"
     }
   ],
   "mandate_compliance": 1.0,
@@ -49,7 +49,7 @@
       {
         "name": "evolution_scanner",
         "ok": true,
-        "age_hours": 0.41
+        "age_hours": 0.4
       },
       {
         "name": "x_trends_scanner",
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.19
+        "age_hours": 1.18
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 1.28
+        "age_hours": 0.76
       }
     ]
   },
@@ -85,6 +85,11 @@
       "engagement": "—"
     },
     {
+      "text": "the 10-agent finance launch is the quiet half of yesterday's anthropic news. the",
+      "score": 0.1471,
+      "engagement": "—"
+    },
+    {
       "text": "automated X stack loop:",
       "score": 0.0714,
       "engagement": "—"
@@ -92,11 +97,6 @@
     {
       "text": "nasa is training on a prototype of Blue Origin's crew moon lander.",
       "score": 0.0625,
-      "engagement": "—"
-    },
-    {
-      "text": "trump heading to xi may 13-15 with iran on the table.",
-      "score": 0.0263,
       "engagement": "—"
     }
   ],
