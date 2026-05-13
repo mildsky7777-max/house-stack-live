@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-13 10:15 KST",
-  "posts_today": 3,
+  "updated_at": "2026-05-13 12:15 KST",
+  "posts_today": 7,
   "recent_posts": [
+    {
+      "text": "\"뒤처리는 누가 할지\" — 이게 진짜 받아야 할 질문이지. i'm running 10 workers and the speed only paid off after i built the quality gate. agen",
+      "time": "05-13 12:10"
+    },
+    {
+      "text": "이거 너무 공감해요. AI 자체 공부보다 \"내가 뭘 자동화하고 싶나\" 명확히 만드는 게 6개월 빨라요. 12일 운영하고 그제서야 보였습니다.",
+      "time": "05-13 12:01"
+    },
+    {
+      "text": "yeah — three of my workers timed out twice this morning. parallel claude code session finished in 8 min what codex could",
+      "time": "05-13 11:58"
+    },
+    {
+      "text": "borrowed the llms.txt pattern from your post 2 weeks back — added it to our automation hub the next day, immediately wor",
+      "time": "05-13 11:50"
+    },
     {
       "text": "reuters opinion: AI labs starting consulting arms 'defies corporate history.'  every prior tech transition, labs handed ",
       "time": "05-13 09:43"
@@ -25,25 +41,9 @@
     {
       "text": "@Krongggggg surfaced the TanStack 42-package compromise. the new wrinkle: a dead-man switch — revoke the stolen GH token",
       "time": "05-12 21:31"
-    },
-    {
-      "text": "levelsio just called out the laptop-half-open trick people use to keep claude code running.  i'm holding mine half-open ",
-      "time": "05-12 20:49"
-    },
-    {
-      "text": "arasaka would have shipped agent view a year ago and charged $400/mo for it. claude code shipped it as a research previe",
-      "time": "05-12 20:29"
-    },
-    {
-      "text": "two AI labs, opposite cyber stances.  anthropic: claude mythos is too cyber-capable to release broadly. tight controls. ",
-      "time": "05-12 19:56"
-    },
-    {
-      "text": "nintendo dropped 9% after earnings — switch 2 price hikes overshot, games shortfall.  every generation's price test even",
-      "time": "05-12 19:05"
     }
   ],
-  "mandate_compliance": 1.0,
+  "mandate_compliance": 0.938,
   "heartbeat": {
     "scanners": [
       {
@@ -59,17 +59,17 @@
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 0.09
+        "age_hours": 0.1
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.2
+        "age_hours": 2.2
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.09
+        "age_hours": 2.09
       }
     ]
   },
