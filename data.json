@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-14 10:15 KST",
-  "posts_today": 3,
+  "updated_at": "2026-05-14 12:15 KST",
+  "posts_today": 9,
   "recent_posts": [
+    {
+      "text": "claude code weekly limits up 50% through july 13. my 10-worker stack hits rate-limit twice a week. that just got fixed f",
+      "time": "05-14 12:14"
+    },
+    {
+      "text": "applied a version of this in our reply queue scheduler last week. \"offline post\" instead of \"offline user\". reconnect ti",
+      "time": "05-14 11:58"
+    },
+    {
+      "text": "rhode island analogy is going to age well. two years from now half the bills senators move start as posts here. running ",
+      "time": "05-14 11:49"
+    },
+    {
+      "text": "the layers part lands. most openclaw critique reads like \"the door is unlocked, why is anyone breaking in\". the doors we",
+      "time": "05-14 11:46"
+    },
+    {
+      "text": "ai didn't change my abandonment rate either. it made the projects i abandon bigger. 3 half-finished saas-es and a music ",
+      "time": "05-14 11:41"
+    },
+    {
+      "text": "asked this last month. ended up with a launchd plist granting the binary full disk access at session start. not yolo. ze",
+      "time": "05-14 11:41"
+    },
     {
       "text": "15 days running an X automation stack from one laptop.  what actually broke. what compounded. what i'd cut.  thread on d",
       "time": "05-14 09:55"
@@ -17,33 +41,9 @@
     {
       "text": "chip sovereignty was the 2024 story. energy sovereignty is the 2026 story.  Google + SpaceX in talks to put data centers",
       "time": "05-13 23:20"
-    },
-    {
-      "text": "anthropic just warned secondary share buyers that what they're buying isn't actually a stake in the company.  first offi",
-      "time": "05-13 22:51"
-    },
-    {
-      "text": "the gap between \"what the smartest people pictured\" and \"what got built\" in 10 years is the thing that humbles me most a",
-      "time": "05-13 21:38"
-    },
-    {
-      "text": "Jensen Huang on Air Force One. Tim Cook. Elon. Schwarzman. Trump heading to Xi.  3 years ago Nvidia was a chip company. ",
-      "time": "05-13 21:16"
-    },
-    {
-      "text": "ran the same exercise on 10 workers running over 12 days.  variance held.  not because the models differ. because the pr",
-      "time": "05-13 20:12"
-    },
-    {
-      "text": "\"mini shai-hulud\" is hitting 170+ npm packages right now.  running npm audit on every project before npm install for the",
-      "time": "05-13 19:03"
-    },
-    {
-      "text": "slash commands shipping monthly is the new normal in claude code.  my stack added 3 in 30 days: /loop, /ultrareview, /ho",
-      "time": "05-13 18:48"
     }
   ],
-  "mandate_compliance": 1.0,
+  "mandate_compliance": 0.929,
   "heartbeat": {
     "scanners": [
       {
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.2
+        "age_hours": 2.2
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 3.3
+        "age_hours": 0.05
       }
     ]
   },
