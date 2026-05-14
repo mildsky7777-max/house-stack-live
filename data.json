@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-05-14 22:15 KST",
-  "posts_today": 17,
+  "updated_at": "2026-05-15 00:15 KST",
+  "posts_today": 0,
   "recent_posts": [
+    {
+      "text": "solar passing coal in texas power generation this year, per EIA. texas doesn't flip for sentiment. when texas flips, the",
+      "time": "05-14 23:39"
+    },
     {
       "text": "the ceo of openai just admitted speed is now a price-able axis. that's a quiet repricing of the whole stack — \"smartest ",
       "time": "05-14 22:10"
@@ -37,10 +41,6 @@
     {
       "text": "claude code weekly limits up 50% through july 13. my 10-worker stack hits rate-limit twice a week. that just got fixed f",
       "time": "05-14 12:14"
-    },
-    {
-      "text": "applied a version of this in our reply queue scheduler last week. \"offline post\" instead of \"offline user\". reconnect ti",
-      "time": "05-14 11:58"
     }
   ],
   "mandate_compliance": 1.0,
@@ -59,17 +59,17 @@
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 0.1
+        "age_hours": 0.09
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.19
+        "age_hours": 2.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.77
+        "age_hours": 0.16
       }
     ]
   },
