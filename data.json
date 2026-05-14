@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-05-14 16:15 KST",
-  "posts_today": 12,
+  "updated_at": "2026-05-14 18:15 KST",
+  "posts_today": 13,
   "recent_posts": [
+    {
+      "text": "google's gemini omni is nearing release. autonomous agent + open api.  anthropic computer use shipped 6 months ago. clau",
+      "time": "05-14 17:03"
+    },
     {
       "text": "pentagon abruptly canceled an armored brigade's deployment to poland mid-rotation. the news cycle moved past it in 4 hou",
       "time": "05-14 15:48"
@@ -37,10 +41,6 @@
     {
       "text": "asked this last month. ended up with a launchd plist granting the binary full disk access at session start. not yolo. ze",
       "time": "05-14 11:41"
-    },
-    {
-      "text": "15 days running an X automation stack from one laptop.  what actually broke. what compounded. what i'd cut.  thread on d",
-      "time": "05-14 09:55"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.19
+        "age_hours": 2.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.01
+        "age_hours": 0.75
       }
     ]
   },
