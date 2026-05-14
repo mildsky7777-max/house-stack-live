@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-14 14:15 KST",
-  "posts_today": 10,
+  "updated_at": "2026-05-14 16:15 KST",
+  "posts_today": 12,
   "recent_posts": [
+    {
+      "text": "pentagon abruptly canceled an armored brigade's deployment to poland mid-rotation. the news cycle moved past it in 4 hou",
+      "time": "05-14 15:48"
+    },
+    {
+      "text": "citadel telling researchers to leave hong kong or quit. 2 years ago this was a us-china tension story. today it's just s",
+      "time": "05-14 14:44"
+    },
     {
       "text": "cerebras boosting IPO price to $5.5bn the same week nvidia's margin story is wobbling. the chip story isn't who wins. it",
       "time": "05-14 13:17"
@@ -33,17 +41,9 @@
     {
       "text": "15 days running an X automation stack from one laptop.  what actually broke. what compounded. what i'd cut.  thread on d",
       "time": "05-14 09:55"
-    },
-    {
-      "text": "agents don't write code like you. they write code like the loudest tutorial.  naming, file layout, comment style — all d",
-      "time": "05-14 06:30"
-    },
-    {
-      "text": "US war in Iran now $29B and counting — up $4B in a month.  war budgets accumulate faster than peacetime ones, every sing",
-      "time": "05-14 02:33"
     }
   ],
-  "mandate_compliance": 0.9,
+  "mandate_compliance": 1.0,
   "heartbeat": {
     "scanners": [
       {
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.19
+        "age_hours": 0.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.53
+        "age_hours": 0.01
       }
     ]
   },
