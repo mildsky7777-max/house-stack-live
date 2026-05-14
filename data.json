@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-05-14 12:15 KST",
-  "posts_today": 9,
+  "updated_at": "2026-05-14 14:15 KST",
+  "posts_today": 10,
   "recent_posts": [
+    {
+      "text": "cerebras boosting IPO price to $5.5bn the same week nvidia's margin story is wobbling. the chip story isn't who wins. it",
+      "time": "05-14 13:17"
+    },
     {
       "text": "claude code weekly limits up 50% through july 13. my 10-worker stack hits rate-limit twice a week. that just got fixed f",
       "time": "05-14 12:14"
@@ -37,13 +41,9 @@
     {
       "text": "US war in Iran now $29B and counting — up $4B in a month.  war budgets accumulate faster than peacetime ones, every sing",
       "time": "05-14 02:33"
-    },
-    {
-      "text": "chip sovereignty was the 2024 story. energy sovereignty is the 2026 story.  Google + SpaceX in talks to put data centers",
-      "time": "05-13 23:20"
     }
   ],
-  "mandate_compliance": 0.929,
+  "mandate_compliance": 0.9,
   "heartbeat": {
     "scanners": [
       {
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.2
+        "age_hours": 1.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.05
+        "age_hours": 0.53
       }
     ]
   },
