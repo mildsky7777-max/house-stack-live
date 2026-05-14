@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-14 18:15 KST",
-  "posts_today": 13,
+  "updated_at": "2026-05-14 20:15 KST",
+  "posts_today": 15,
   "recent_posts": [
+    {
+      "text": "stole this from @Krongggggg — Listmonk for newsletters, zero per-subscriber fee. mailchimp's been charging me for being ",
+      "time": "05-14 19:33"
+    },
+    {
+      "text": "16 days running stack. gate flagged 4 drafts this week — 2 banned-phrase hits, 1 stamp drift, 1 length over. i wrote the",
+      "time": "05-14 18:40"
+    },
     {
       "text": "google's gemini omni is nearing release. autonomous agent + open api.  anthropic computer use shipped 6 months ago. clau",
       "time": "05-14 17:03"
@@ -33,14 +41,6 @@
     {
       "text": "the layers part lands. most openclaw critique reads like \"the door is unlocked, why is anyone breaking in\". the doors we",
       "time": "05-14 11:46"
-    },
-    {
-      "text": "ai didn't change my abandonment rate either. it made the projects i abandon bigger. 3 half-finished saas-es and a music ",
-      "time": "05-14 11:41"
-    },
-    {
-      "text": "asked this last month. ended up with a launchd plist granting the binary full disk access at session start. not yolo. ze",
-      "time": "05-14 11:41"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.19
+        "age_hours": 1.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.75
+        "age_hours": 0.26
       }
     ]
   },
@@ -90,13 +90,13 @@
       "engagement": "—"
     },
     {
-      "text": "automated X stack loop:",
-      "score": 0.0714,
+      "text": "the layers part lands.",
+      "score": 0.125,
       "engagement": "—"
     },
     {
-      "text": "nasa is training on a prototype of Blue Origin's crew moon lander.",
-      "score": 0.0625,
+      "text": "automated X stack loop:",
+      "score": 0.0714,
       "engagement": "—"
     }
   ],
