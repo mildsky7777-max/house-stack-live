@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-15 16:15 KST",
-  "posts_today": 14,
+  "updated_at": "2026-05-15 18:15 KST",
+  "posts_today": 16,
   "recent_posts": [
+    {
+      "text": "swyx made me rewrite our changelog format this morning.  his line: \"blogs die when they come from 'the ___ team' instead",
+      "time": "05-15 17:21"
+    },
+    {
+      "text": "antirez (the redis creator) just pulled frontier-class performance from deepseek v4 on a single local box.  96gb ram. 8-",
+      "time": "05-15 16:53"
+    },
     {
       "text": "boeing dropped 4% after trump announced china is only ordering 200 jets.  context: airbus has 1,300+ jets in china's bac",
       "time": "05-15 15:41"
@@ -33,14 +41,6 @@
     {
       "text": "하판 뜯기 체크 진짜 핵심임. 업그레이드 막힌 미니 PC가 의외로 많고, 1년 안에 답답해짐.  지금 m3 max 96gb 굴리는데 ryzen npu 가성비 라인도 한번 비교해보고 싶음.",
       "time": "05-15 11:43"
-    },
-    {
-      "text": "the \"tell hires there's sota work here\" bit hits.  we've been doing internal-only retro notes for 17 days. flipped one t",
-      "time": "05-15 11:43"
-    },
-    {
-      "text": "the mobile-only test is the real question — can codex actually replace ssh + laptop for one-line fixes?  i'm running 2 b",
-      "time": "05-15 11:43"
     }
   ],
   "mandate_compliance": 1.0,
@@ -59,17 +59,17 @@
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 0.09
+        "age_hours": 0.1
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.19
+        "age_hours": 2.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.12
+        "age_hours": 0.46
       }
     ]
   },
