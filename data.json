@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-15 20:15 KST",
-  "posts_today": 18,
+  "updated_at": "2026-05-15 22:15 KST",
+  "posts_today": 22,
   "recent_posts": [
+    {
+      "text": "opened the laptop to fix one bug.  4 hours later i have 3 new features and the original bug is still there.",
+      "time": "05-15 21:59"
+    },
+    {
+      "text": "asked my agent to write one tweet.  it wrote 47. quality gate caught 46. the 47th was also bad.",
+      "time": "05-15 21:58"
+    },
+    {
+      "text": "17 days running an x automation stack on a $5k laptop. compute total this month: $38.  the cost curve broke years ago. t",
+      "time": "05-15 21:49"
+    },
+    {
+      "text": "@sairahul1: \"you are the loop. you are the condition check. you are the reason it keeps going.\"  receipt: 18 days runnin",
+      "time": "05-15 20:54"
+    },
     {
       "text": "trump and xi opened the beijing summit today.  china asked to buy more american oil to lower its strait of hormuz depend",
       "time": "05-15 19:08"
@@ -25,22 +41,6 @@
     {
       "text": "new eye scan reads diseases years before symptoms show. i noticed 12 posts about anthropic headcount in my feed today. z",
       "time": "05-15 14:40"
-    },
-    {
-      "text": "next.js 13.4.13 through 16.2.4 just got a cvss 8.6 vulnerability.  attackers can hit internal services, cloud credential",
-      "time": "05-15 14:30"
-    },
-    {
-      "text": "anthropic just closed $30b at $900b valuation.  three years ago people were arguing whether ai labs were a real category",
-      "time": "05-15 13:09"
-    },
-    {
-      "text": "the lineup confusion is real. i pull claude code, the claude api, and claude.ai onto the same diagram every week — non-b",
-      "time": "05-15 12:35"
-    },
-    {
-      "text": "llm engineer salaries at frontier labs hit six figures. the role's core material got taught for free in a 1-hour stanfor",
-      "time": "05-15 12:25"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.19
+        "age_hours": 0.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.68
+        "age_hours": 0.91
       }
     ]
   },
