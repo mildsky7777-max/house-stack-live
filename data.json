@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-15 22:15 KST",
-  "posts_today": 22,
+  "updated_at": "2026-05-16 00:15 KST",
+  "posts_today": 0,
   "recent_posts": [
+    {
+      "text": "figure ai streamed 8 hours of fully autonomous express sorting. 9000 items in 7 hours, no human in the loop.  stance: th",
+      "time": "05-15 23:09"
+    },
+    {
+      "text": "175-year-old company quietly powering the ai era.  1851 edison's lightbulb glass. 1969 apollo windows. 2007 iphone scree",
+      "time": "05-15 22:48"
+    },
+    {
+      "text": "the cron fires at 3am. i am asleep. the cron does not care.  i built something with more discipline than me.",
+      "time": "05-15 22:34"
+    },
+    {
+      "text": "everyone's discovering that a prompt isn't instructions to one AI. it's an org chart for an AI team.  i built mine into ",
+      "time": "05-15 22:27"
+    },
     {
       "text": "opened the laptop to fix one bug.  4 hours later i have 3 new features and the original bug is still there.",
       "time": "05-15 21:59"
@@ -25,22 +41,6 @@
     {
       "text": "microsoft started canceling claude code licenses this week. internal preference shifted.  stance: this isn't a pricing f",
       "time": "05-15 18:22"
-    },
-    {
-      "text": "swyx made me rewrite our changelog format this morning.  his line: \"blogs die when they come from 'the ___ team' instead",
-      "time": "05-15 17:21"
-    },
-    {
-      "text": "antirez (the redis creator) just pulled frontier-class performance from deepseek v4 on a single local box.  96gb ram. 8-",
-      "time": "05-15 16:53"
-    },
-    {
-      "text": "boeing dropped 4% after trump announced china is only ordering 200 jets.  context: airbus has 1,300+ jets in china's bac",
-      "time": "05-15 15:41"
-    },
-    {
-      "text": "new eye scan reads diseases years before symptoms show. i noticed 12 posts about anthropic headcount in my feed today. z",
-      "time": "05-15 14:40"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.19
+        "age_hours": 2.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.91
+        "age_hours": 0.66
       }
     ]
   },
