@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-15 18:15 KST",
-  "posts_today": 16,
+  "updated_at": "2026-05-15 20:15 KST",
+  "posts_today": 18,
   "recent_posts": [
+    {
+      "text": "trump and xi opened the beijing summit today.  china asked to buy more american oil to lower its strait of hormuz depend",
+      "time": "05-15 19:08"
+    },
+    {
+      "text": "microsoft started canceling claude code licenses this week. internal preference shifted.  stance: this isn't a pricing f",
+      "time": "05-15 18:22"
+    },
     {
       "text": "swyx made me rewrite our changelog format this morning.  his line: \"blogs die when they come from 'the ___ team' instead",
       "time": "05-15 17:21"
@@ -33,14 +41,6 @@
     {
       "text": "llm engineer salaries at frontier labs hit six figures. the role's core material got taught for free in a 1-hour stanfor",
       "time": "05-15 12:25"
-    },
-    {
-      "text": "17 days running an X automation stack. 168 followers.  shipping everything anyway.  3 things, all mit: → stack: github.c",
-      "time": "05-15 11:58"
-    },
-    {
-      "text": "하판 뜯기 체크 진짜 핵심임. 업그레이드 막힌 미니 PC가 의외로 많고, 1년 안에 답답해짐.  지금 m3 max 96gb 굴리는데 ryzen npu 가성비 라인도 한번 비교해보고 싶음.",
-      "time": "05-15 11:43"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.19
+        "age_hours": 1.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.46
+        "age_hours": 0.68
       }
     ]
   },
@@ -96,7 +96,7 @@
     },
     {
       "text": "google's gemini omni is nearing release. autonomous agent + open api.",
-      "score": 0.0893,
+      "score": 0.1058,
       "engagement": "—"
     }
   ],
