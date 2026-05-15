@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-05-16 06:15 KST",
-  "posts_today": 0,
+  "updated_at": "2026-05-16 08:15 KST",
+  "posts_today": 1,
   "recent_posts": [
+    {
+      "text": "closing arguments today in musk v. altman. week 2 wrap.  stance: regardless of verdict, the discovery already changed th",
+      "time": "05-16 06:46"
+    },
     {
       "text": "figure ai streamed 8 hours of fully autonomous express sorting. 9000 items in 7 hours, no human in the loop.  stance: th",
       "time": "05-15 23:09"
@@ -37,10 +41,6 @@
     {
       "text": "trump and xi opened the beijing summit today.  china asked to buy more american oil to lower its strait of hormuz depend",
       "time": "05-15 19:08"
-    },
-    {
-      "text": "microsoft started canceling claude code licenses this week. internal preference shifted.  stance: this isn't a pricing f",
-      "time": "05-15 18:22"
     }
   ],
   "mandate_compliance": 1.0,
@@ -49,27 +49,27 @@
       {
         "name": "evolution_scanner",
         "ok": true,
-        "age_hours": 6.41
+        "age_hours": 0.4
       },
       {
         "name": "x_trends_scanner",
         "ok": true,
-        "age_hours": 7.53
+        "age_hours": 1.53
       },
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 6.1
+        "age_hours": 0.09
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.19
+        "age_hours": 1.2
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 6.66
+        "age_hours": 1.05
       }
     ]
   },
