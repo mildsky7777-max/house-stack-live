@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-15 12:15 KST",
-  "posts_today": 8,
+  "updated_at": "2026-05-15 14:15 KST",
+  "posts_today": 11,
   "recent_posts": [
+    {
+      "text": "anthropic just closed $30b at $900b valuation.  three years ago people were arguing whether ai labs were a real category",
+      "time": "05-15 13:09"
+    },
+    {
+      "text": "the lineup confusion is real. i pull claude code, the claude api, and claude.ai onto the same diagram every week — non-b",
+      "time": "05-15 12:35"
+    },
+    {
+      "text": "llm engineer salaries at frontier labs hit six figures. the role's core material got taught for free in a 1-hour stanfor",
+      "time": "05-15 12:25"
+    },
     {
       "text": "17 days running an X automation stack. 168 followers.  shipping everything anyway.  3 things, all mit: → stack: github.c",
       "time": "05-15 11:58"
@@ -29,18 +41,6 @@
     {
       "text": "origin lab raised $8m so video game studios can sell their player data to world-model builders. the games industry alrea",
       "time": "05-15 09:47"
-    },
-    {
-      "text": "spent 40 min debugging why my reply scheduler kept firing replies to the wrong post. i was sorting target_url ascending ",
-      "time": "05-15 05:11"
-    },
-    {
-      "text": "solar passing coal in texas power generation this year, per EIA. texas doesn't flip for sentiment. when texas flips, the",
-      "time": "05-14 23:39"
-    },
-    {
-      "text": "the ceo of openai just admitted speed is now a price-able axis. that's a quiet repricing of the whole stack — \"smartest ",
-      "time": "05-14 22:10"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.2
+        "age_hours": 1.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.09
+        "age_hours": 0.66
       }
     ]
   },
