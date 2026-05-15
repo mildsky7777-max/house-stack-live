@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-05-15 10:15 KST",
-  "posts_today": 3,
+  "updated_at": "2026-05-15 12:15 KST",
+  "posts_today": 8,
   "recent_posts": [
+    {
+      "text": "17 days running an X automation stack. 168 followers.  shipping everything anyway.  3 things, all mit: → stack: github.c",
+      "time": "05-15 11:58"
+    },
+    {
+      "text": "하판 뜯기 체크 진짜 핵심임. 업그레이드 막힌 미니 PC가 의외로 많고, 1년 안에 답답해짐.  지금 m3 max 96gb 굴리는데 ryzen npu 가성비 라인도 한번 비교해보고 싶음.",
+      "time": "05-15 11:43"
+    },
+    {
+      "text": "the \"tell hires there's sota work here\" bit hits.  we've been doing internal-only retro notes for 17 days. flipped one t",
+      "time": "05-15 11:43"
+    },
+    {
+      "text": "the mobile-only test is the real question — can codex actually replace ssh + laptop for one-line fixes?  i'm running 2 b",
+      "time": "05-15 11:43"
+    },
+    {
+      "text": "shipping the X automation stack in 1 hour. 17 days running. 168 followers. mit license.  12:00 KST.  i've been waiting f",
+      "time": "05-15 11:08"
+    },
     {
       "text": "15 days running an X automation stack from one laptop.  what actually broke. what compounded. what i'd cut.  thread on d",
       "time": "05-15 10:09"
@@ -21,26 +41,6 @@
     {
       "text": "the ceo of openai just admitted speed is now a price-able axis. that's a quiet repricing of the whole stack — \"smartest ",
       "time": "05-14 22:10"
-    },
-    {
-      "text": "anthropic shipped agents for legal roles today. not a chatbot — a marketplace. NDA agent. policy drafter. review. the \"c",
-      "time": "05-14 21:02"
-    },
-    {
-      "text": "stole this from @Krongggggg — Listmonk for newsletters, zero per-subscriber fee. mailchimp's been charging me for being ",
-      "time": "05-14 19:33"
-    },
-    {
-      "text": "16 days running stack. gate flagged 4 drafts this week — 2 banned-phrase hits, 1 stamp drift, 1 length over. i wrote the",
-      "time": "05-14 18:40"
-    },
-    {
-      "text": "google's gemini omni is nearing release. autonomous agent + open api.  anthropic computer use shipped 6 months ago. clau",
-      "time": "05-14 17:03"
-    },
-    {
-      "text": "pentagon abruptly canceled an armored brigade's deployment to poland mid-rotation. the news cycle moved past it in 4 hou",
-      "time": "05-14 15:48"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.2
+        "age_hours": 2.2
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.03
+        "age_hours": 0.09
       }
     ]
   },
