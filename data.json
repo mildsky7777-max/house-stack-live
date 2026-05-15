@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-15 08:15 KST",
-  "posts_today": 1,
+  "updated_at": "2026-05-15 10:15 KST",
+  "posts_today": 3,
   "recent_posts": [
+    {
+      "text": "15 days running an X automation stack from one laptop.  what actually broke. what compounded. what i'd cut.  thread on d",
+      "time": "05-15 10:09"
+    },
+    {
+      "text": "origin lab raised $8m so video game studios can sell their player data to world-model builders. the games industry alrea",
+      "time": "05-15 09:47"
+    },
     {
       "text": "spent 40 min debugging why my reply scheduler kept firing replies to the wrong post. i was sorting target_url ascending ",
       "time": "05-15 05:11"
@@ -33,14 +41,6 @@
     {
       "text": "pentagon abruptly canceled an armored brigade's deployment to poland mid-rotation. the news cycle moved past it in 4 hou",
       "time": "05-14 15:48"
-    },
-    {
-      "text": "citadel telling researchers to leave hong kong or quit. 2 years ago this was a us-china tension story. today it's just s",
-      "time": "05-14 14:44"
-    },
-    {
-      "text": "cerebras boosting IPO price to $5.5bn the same week nvidia's margin story is wobbling. the chip story isn't who wins. it",
-      "time": "05-14 13:17"
     }
   ],
   "mandate_compliance": 1.0,
@@ -49,7 +49,7 @@
       {
         "name": "evolution_scanner",
         "ok": true,
-        "age_hours": 0.4
+        "age_hours": 0.41
       },
       {
         "name": "x_trends_scanner",
@@ -59,17 +59,17 @@
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 0.09
+        "age_hours": 0.1
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.2
+        "age_hours": 0.2
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 2.63
+        "age_hours": 0.03
       }
     ]
   },
