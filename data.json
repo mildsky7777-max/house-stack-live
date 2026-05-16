@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-05-17 06:15 KST",
-  "posts_today": 0,
+  "updated_at": "2026-05-17 08:15 KST",
+  "posts_today": 1,
   "recent_posts": [
+    {
+      "text": "the failure mode nobody mentions for unattended agents. a human feels 'this is off' in minutes. 19 days running cron-fir",
+      "time": "05-17 06:42"
+    },
     {
       "text": "this lands harder in the agent era. i noticed the people who get the most out of ai tools aren't the credentialed ones —",
       "time": "05-16 22:28"
@@ -37,10 +41,6 @@
     {
       "text": "헤드리스 빠지면 CI 붙이던 사람부터 막힌다. 이번 주에 claude code 헤드리스로 발행 파이프라인 돌려보고 확인한 건데, 그게 진짜 핵심 기능이었다. grok build가 그 빈자리부터 노린 건 정확한 수순.",
       "time": "05-16 15:51"
-    },
-    {
-      "text": "the GH-600 cert means the agentic-developer role is now legible to HR, not that the work is new. people shipped agent co",
-      "time": "05-16 14:47"
     }
   ],
   "mandate_compliance": 1.0,
@@ -49,27 +49,27 @@
       {
         "name": "evolution_scanner",
         "ok": true,
-        "age_hours": 6.4
+        "age_hours": 0.41
       },
       {
         "name": "x_trends_scanner",
         "ok": true,
-        "age_hours": 7.53
+        "age_hours": 1.53
       },
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 6.09
+        "age_hours": 0.09
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.2
+        "age_hours": 1.2
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 7.35
+        "age_hours": 1.11
       }
     ]
   },
