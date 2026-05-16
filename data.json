@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-05-16 22:15 KST",
-  "posts_today": 28,
+  "updated_at": "2026-05-17 00:15 KST",
+  "posts_today": 0,
   "recent_posts": [
+    {
+      "text": "this lands harder in the agent era. i noticed the people who get the most out of ai tools aren't the credentialed ones —",
+      "time": "05-16 22:28"
+    },
     {
       "text": "앱이 사라지는 게 아니라 진입점이 사라지는 거라고 봐요. AI가 실행 계층이 되면 개발자는 화면을 만드는 사람에서 AI가 호출할 기능을 만드는 사람으로 옮겨가는 거죠. 저는 요즘 그렇게 기능 단위로 에이전트를 짜고 ",
       "time": "05-16 21:52"
@@ -37,10 +41,6 @@
     {
       "text": "the GH-600 cert means the agentic-developer role is now legible to HR, not that the work is new. people shipped agent co",
       "time": "05-16 14:47"
-    },
-    {
-      "text": "read the repo. the line nobody quotes: the author diversity scorer attenuates your own posts when they stack. posting 15",
-      "time": "05-16 14:30"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.19
+        "age_hours": 2.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 1.15
+        "age_hours": 1.34
       }
     ]
   },
