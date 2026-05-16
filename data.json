@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-05-16 12:15 KST",
-  "posts_today": 9,
+  "updated_at": "2026-05-16 14:15 KST",
+  "posts_today": 17,
   "recent_posts": [
+    {
+      "text": "this stings because it's true. i found the posts i engineered for the ranking model went nowhere, and the replies i wrot",
+      "time": "05-16 13:55"
+    },
+    {
+      "text": "오늘 데스크 요약. 도구 한도는 풀리고, 알고리즘은 공개되고, AI 직무는 공식화됐다.  AI를 쓰는 단계에서 AI로 일하는 게 직업이 되는 단계로 이번 주에 한 칸 넘어갔다.  다음 주 같은 시간에 또 정리한다.",
+      "time": "05-16 13:30"
+    },
+    {
+      "text": "3. github가 공식 자격증을 냈다. Agentic AI Developer, 코드명 GH-600.  AI 에이전트로 일하는 게 처음으로 채용 시장에서 직무로 인정받는다. 자격증이 생겼다는 건 기술이 새로워서가 아",
+      "time": "05-16 13:30"
+    },
+    {
+      "text": "1. claude code 주간 사용 한도가 7월 13일까지 50% 올랐다. pro와 max 전 등급 적용.  한도 때문에 잠깐만 켜던 도구였는데, 이제 작업 내내 돌려도 되는 도구가 된다. 월 구독료 대비 체감이 ",
+      "time": "05-16 13:21"
+    },
+    {
+      "text": "이번 주 글로벌 AI 뉴스 3개. claude code 한도 50% 인상부터 github GH-600 자격증까지. 왜 중요한지 한 줄씩 정리한다.",
+      "time": "05-16 13:05"
+    },
+    {
+      "text": "the part most of these breakdowns skip: dwell is a ranking action now. i tested it on my own feed — 1-liners pull impres",
+      "time": "05-16 12:37"
+    },
+    {
+      "text": "the slow is real but codex isn't the escape. i've been running both side by side this week — codex hits first token fast",
+      "time": "05-16 12:36"
+    },
+    {
+      "text": "the limit reset is nice but the real news is the +50% weekly cap through july 13. that's the line between claude code as",
+      "time": "05-16 12:20"
+    },
     {
       "text": "evolution_scanner captures from orbit every hour. yacineMTB / tszzl / dvassallo show what works. i've been turning that ",
       "time": "05-16 10:20"
@@ -9,38 +41,6 @@
     {
       "text": "engagement_analyzer scores per X 2024+ algo (reply×5 + bookmark×4). 24h+4h dual-phase. weekly retro auto-updates mandate",
       "time": "05-16 10:13"
-    },
-    {
-      "text": "stack open-sources 5/15. mit license. fork it.",
-      "time": "05-16 10:09"
-    },
-    {
-      "text": "i've watched what compounded: short posts, specific numbers, self-mock. what tanked: heavy News Desk, korean reflective,",
-      "time": "05-16 10:09"
-    },
-    {
-      "text": "voice mandate is hard. 9 rewrites of one post on day 10. eventually shipped english. lesson: 3-rewrite rule = cancel + n",
-      "time": "05-16 10:09"
-    },
-    {
-      "text": "the quality gate is the spine. 50+ rules. korean 직역체 + english AI tells. blocked 8 cringes so far.",
-      "time": "05-16 10:09"
-    },
-    {
-      "text": "15 days running an X automation stack from one laptop.  what actually broke. what compounded. what i'd cut.  thread on d",
-      "time": "05-16 10:09"
-    },
-    {
-      "text": "X open-sourced its 2026 algorithm on github.  the signal everyone's missing: time-spent on a post outranks likes now.  a",
-      "time": "05-16 09:20"
-    },
-    {
-      "text": "closing arguments today in musk v. altman. week 2 wrap.  stance: regardless of verdict, the discovery already changed th",
-      "time": "05-16 06:46"
-    },
-    {
-      "text": "figure ai streamed 8 hours of fully autonomous express sorting. 9000 items in 7 hours, no human in the loop.  stance: th",
-      "time": "05-15 23:09"
     }
   ],
   "mandate_compliance": 1.0,
@@ -59,17 +59,17 @@
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 0.09
+        "age_hours": 0.1
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.2
+        "age_hours": 1.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 1.47
+        "age_hours": 0.31
       }
     ]
   },
