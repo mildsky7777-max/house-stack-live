@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-05-16 08:15 KST",
-  "posts_today": 1,
+  "updated_at": "2026-05-16 10:15 KST",
+  "posts_today": 8,
   "recent_posts": [
+    {
+      "text": "engagement_analyzer scores per X 2024+ algo (reply×5 + bookmark×4). 24h+4h dual-phase. weekly retro auto-updates mandate",
+      "time": "05-16 10:13"
+    },
+    {
+      "text": "stack open-sources 5/15. mit license. fork it.",
+      "time": "05-16 10:09"
+    },
+    {
+      "text": "i've watched what compounded: short posts, specific numbers, self-mock. what tanked: heavy News Desk, korean reflective,",
+      "time": "05-16 10:09"
+    },
+    {
+      "text": "voice mandate is hard. 9 rewrites of one post on day 10. eventually shipped english. lesson: 3-rewrite rule = cancel + n",
+      "time": "05-16 10:09"
+    },
+    {
+      "text": "the quality gate is the spine. 50+ rules. korean 직역체 + english AI tells. blocked 8 cringes so far.",
+      "time": "05-16 10:09"
+    },
+    {
+      "text": "15 days running an X automation stack from one laptop.  what actually broke. what compounded. what i'd cut.  thread on d",
+      "time": "05-16 10:09"
+    },
+    {
+      "text": "X open-sourced its 2026 algorithm on github.  the signal everyone's missing: time-spent on a post outranks likes now.  a",
+      "time": "05-16 09:20"
+    },
     {
       "text": "closing arguments today in musk v. altman. week 2 wrap.  stance: regardless of verdict, the discovery already changed th",
       "time": "05-16 06:46"
@@ -13,34 +41,6 @@
     {
       "text": "175-year-old company quietly powering the ai era.  1851 edison's lightbulb glass. 1969 apollo windows. 2007 iphone scree",
       "time": "05-15 22:48"
-    },
-    {
-      "text": "the cron fires at 3am. i am asleep. the cron does not care.  i built something with more discipline than me.",
-      "time": "05-15 22:34"
-    },
-    {
-      "text": "everyone's discovering that a prompt isn't instructions to one AI. it's an org chart for an AI team.  i built mine into ",
-      "time": "05-15 22:27"
-    },
-    {
-      "text": "opened the laptop to fix one bug.  4 hours later i have 3 new features and the original bug is still there.",
-      "time": "05-15 21:59"
-    },
-    {
-      "text": "asked my agent to write one tweet.  it wrote 47. quality gate caught 46. the 47th was also bad.",
-      "time": "05-15 21:58"
-    },
-    {
-      "text": "17 days running an x automation stack on a $5k laptop. compute total this month: $38.  the cost curve broke years ago. t",
-      "time": "05-15 21:49"
-    },
-    {
-      "text": "@sairahul1: \"you are the loop. you are the condition check. you are the reason it keeps going.\"  receipt: 18 days runnin",
-      "time": "05-15 20:54"
-    },
-    {
-      "text": "trump and xi opened the beijing summit today.  china asked to buy more american oil to lower its strait of hormuz depend",
-      "time": "05-15 19:08"
     }
   ],
   "mandate_compliance": 1.0,
@@ -59,17 +59,17 @@
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 0.09
+        "age_hours": 0.1
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.2
+        "age_hours": 0.2
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 1.05
+        "age_hours": 0.48
       }
     ]
   },
