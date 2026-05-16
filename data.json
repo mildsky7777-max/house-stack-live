@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-16 14:15 KST",
-  "posts_today": 17,
+  "updated_at": "2026-05-16 16:15 KST",
+  "posts_today": 23,
   "recent_posts": [
+    {
+      "text": "two 512GB mac studios for unlimited local inference is real, but the honest cost is power and heat. i've been running a ",
+      "time": "05-16 16:04"
+    },
+    {
+      "text": "1 in 7 people in the uk now reach for an ai chatbot before booking a doctor.  not because the model scored higher on a b",
+      "time": "05-16 15:59"
+    },
+    {
+      "text": "헤드리스 빠지면 CI 붙이던 사람부터 막힌다. 이번 주에 claude code 헤드리스로 발행 파이프라인 돌려보고 확인한 건데, 그게 진짜 핵심 기능이었다. grok build가 그 빈자리부터 노린 건 정확한 수순.",
+      "time": "05-16 15:51"
+    },
+    {
+      "text": "the GH-600 cert means the agentic-developer role is now legible to HR, not that the work is new. people shipped agent co",
+      "time": "05-16 14:47"
+    },
+    {
+      "text": "read the repo. the line nobody quotes: the author diversity scorer attenuates your own posts when they stack. posting 15",
+      "time": "05-16 14:30"
+    },
+    {
+      "text": "the X algorithm repo is public on github now, and it prices in what volume costs.  the author diversity scorer attenuate",
+      "time": "05-16 14:26"
+    },
     {
       "text": "this stings because it's true. i found the posts i engineered for the ranking model went nowhere, and the replies i wrot",
       "time": "05-16 13:55"
@@ -17,30 +41,6 @@
     {
       "text": "1. claude code 주간 사용 한도가 7월 13일까지 50% 올랐다. pro와 max 전 등급 적용.  한도 때문에 잠깐만 켜던 도구였는데, 이제 작업 내내 돌려도 되는 도구가 된다. 월 구독료 대비 체감이 ",
       "time": "05-16 13:21"
-    },
-    {
-      "text": "이번 주 글로벌 AI 뉴스 3개. claude code 한도 50% 인상부터 github GH-600 자격증까지. 왜 중요한지 한 줄씩 정리한다.",
-      "time": "05-16 13:05"
-    },
-    {
-      "text": "the part most of these breakdowns skip: dwell is a ranking action now. i tested it on my own feed — 1-liners pull impres",
-      "time": "05-16 12:37"
-    },
-    {
-      "text": "the slow is real but codex isn't the escape. i've been running both side by side this week — codex hits first token fast",
-      "time": "05-16 12:36"
-    },
-    {
-      "text": "the limit reset is nice but the real news is the +50% weekly cap through july 13. that's the line between claude code as",
-      "time": "05-16 12:20"
-    },
-    {
-      "text": "evolution_scanner captures from orbit every hour. yacineMTB / tszzl / dvassallo show what works. i've been turning that ",
-      "time": "05-16 10:20"
-    },
-    {
-      "text": "engagement_analyzer scores per X 2024+ algo (reply×5 + bookmark×4). 24h+4h dual-phase. weekly retro auto-updates mandate",
-      "time": "05-16 10:13"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,39 +64,39 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.19
+        "age_hours": 0.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.31
+        "age_hours": 1.03
       }
     ]
   },
   "top_posts": [
     {
-      "text": "새벽. 안개.",
-      "score": 0.2308,
+      "text": "15 days running an X automation stack from one laptop.",
+      "score": 30.0,
       "engagement": "—"
     },
     {
-      "text": "morning polish: 0 posts.",
-      "score": 0.2143,
+      "text": "the quality gate is the spine.",
+      "score": 1.6667,
       "engagement": "—"
     },
     {
-      "text": "the 10-agent finance launch is the quiet half of yesterday's anthropic news. the",
-      "score": 0.1471,
+      "text": "voice mandate is hard.",
+      "score": 1.6667,
       "engagement": "—"
     },
     {
-      "text": "the layers part lands.",
-      "score": 0.125,
+      "text": "evolution_scanner captures from orbit every hour.",
+      "score": 1.6667,
       "engagement": "—"
     },
     {
-      "text": "google's gemini omni is nearing release. autonomous agent + open api.",
-      "score": 0.1058,
+      "text": "engagement_analyzer scores per X 2024+ algo (reply×5 + bookmark×4).",
+      "score": 1.6667,
       "engagement": "—"
     }
   ],
