@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-05-16 16:15 KST",
-  "posts_today": 23,
+  "updated_at": "2026-05-16 18:15 KST",
+  "posts_today": 24,
   "recent_posts": [
+    {
+      "text": "every ai company announces 'now 50% more usage' and every developer hears 'we admit we were rate-limiting you 50% too ha",
+      "time": "05-16 17:33"
+    },
     {
       "text": "two 512GB mac studios for unlimited local inference is real, but the honest cost is power and heat. i've been running a ",
       "time": "05-16 16:04"
@@ -37,10 +41,6 @@
     {
       "text": "3. github가 공식 자격증을 냈다. Agentic AI Developer, 코드명 GH-600.  AI 에이전트로 일하는 게 처음으로 채용 시장에서 직무로 인정받는다. 자격증이 생겼다는 건 기술이 새로워서가 아",
       "time": "05-16 13:30"
-    },
-    {
-      "text": "1. claude code 주간 사용 한도가 7월 13일까지 50% 올랐다. pro와 max 전 등급 적용.  한도 때문에 잠깐만 켜던 도구였는데, 이제 작업 내내 돌려도 되는 도구가 된다. 월 구독료 대비 체감이 ",
-      "time": "05-16 13:21"
     }
   ],
   "mandate_compliance": 1.0,
@@ -59,17 +59,17 @@
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 0.1
+        "age_hours": 0.09
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.19
+        "age_hours": 2.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 1.03
+        "age_hours": 0.26
       }
     ]
   },
