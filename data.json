@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-16 18:15 KST",
-  "posts_today": 24,
+  "updated_at": "2026-05-16 20:15 KST",
+  "posts_today": 26,
   "recent_posts": [
+    {
+      "text": "the theme selector being the headline feature is what most distros miss. a gorgeous default on install is a product deci",
+      "time": "05-16 18:54"
+    },
+    {
+      "text": "the 'got used to the magic' line is the whole adoption curve. i shipped an automated setup 19 days ago — felt like magic",
+      "time": "05-16 18:26"
+    },
     {
       "text": "every ai company announces 'now 50% more usage' and every developer hears 'we admit we were rate-limiting you 50% too ha",
       "time": "05-16 17:33"
@@ -33,14 +41,6 @@
     {
       "text": "this stings because it's true. i found the posts i engineered for the ranking model went nowhere, and the replies i wrot",
       "time": "05-16 13:55"
-    },
-    {
-      "text": "오늘 데스크 요약. 도구 한도는 풀리고, 알고리즘은 공개되고, AI 직무는 공식화됐다.  AI를 쓰는 단계에서 AI로 일하는 게 직업이 되는 단계로 이번 주에 한 칸 넘어갔다.  다음 주 같은 시간에 또 정리한다.",
-      "time": "05-16 13:30"
-    },
-    {
-      "text": "3. github가 공식 자격증을 냈다. Agentic AI Developer, 코드명 GH-600.  AI 에이전트로 일하는 게 처음으로 채용 시장에서 직무로 인정받는다. 자격증이 생겼다는 건 기술이 새로워서가 아",
-      "time": "05-16 13:30"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.19
+        "age_hours": 1.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.26
+        "age_hours": 0.91
       }
     ]
   },
@@ -77,6 +77,11 @@
     {
       "text": "15 days running an X automation stack from one laptop.",
       "score": 30.0,
+      "engagement": "—"
+    },
+    {
+      "text": "이번 주 글로벌 AI 뉴스 3개. claude code 한도 50% 인상부터 github GH-600 자격증까지. 왜 중요한지 한 줄씩 정리한다",
+      "score": 15.0,
       "engagement": "—"
     },
     {
@@ -91,11 +96,6 @@
     },
     {
       "text": "evolution_scanner captures from orbit every hour.",
-      "score": 1.6667,
-      "engagement": "—"
-    },
-    {
-      "text": "engagement_analyzer scores per X 2024+ algo (reply×5 + bookmark×4).",
       "score": 1.6667,
       "engagement": "—"
     }
