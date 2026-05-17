@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17 12:15 KST",
+  "updated_at": "2026-05-17 14:15 KST",
   "posts_today": 8,
   "recent_posts": [
     {
@@ -59,21 +59,26 @@
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 0.09
+        "age_hours": 0.1
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.2
+        "age_hours": 1.19
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 1.57
+        "age_hours": 3.57
       }
     ]
   },
   "top_posts": [
+    {
+      "text": "15 days running an X automation stack from one laptop.",
+      "score": 30.0,
+      "engagement": "—"
+    },
     {
       "text": "15 days running an X automation stack from one laptop.",
       "score": 30.0,
@@ -91,11 +96,6 @@
     },
     {
       "text": "voice mandate is hard.",
-      "score": 1.6667,
-      "engagement": "—"
-    },
-    {
-      "text": "evolution_scanner captures from orbit every hour.",
       "score": 1.6667,
       "engagement": "—"
     }
