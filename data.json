@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-05-17 08:15 KST",
-  "posts_today": 1,
+  "updated_at": "2026-05-17 10:15 KST",
+  "posts_today": 8,
   "recent_posts": [
+    {
+      "text": "stack open-sources 5/15. mit license. fork it.",
+      "time": "05-17 10:14"
+    },
+    {
+      "text": "i've watched what compounded: short posts, specific numbers, self-mock. what tanked: heavy News Desk, korean reflective,",
+      "time": "05-17 10:14"
+    },
+    {
+      "text": "evolution_scanner captures from orbit every hour. yacineMTB / tszzl / dvassallo show what works. i've been turning that ",
+      "time": "05-17 10:14"
+    },
+    {
+      "text": "voice mandate is hard. 9 rewrites of one post on day 10. eventually shipped english. lesson: 3-rewrite rule = cancel + n",
+      "time": "05-17 10:14"
+    },
+    {
+      "text": "the quality gate is the spine. 50+ rules. korean 직역체 + english AI tells. blocked 8 cringes so far.",
+      "time": "05-17 10:13"
+    },
+    {
+      "text": "15 days running an X automation stack from one laptop.  what actually broke. what compounded. what i'd cut.  thread on d",
+      "time": "05-17 10:13"
+    },
+    {
+      "text": "167x faster is the wrong headline. on-device TTS was never bottlenecked on speed — it's per-language quality. '31 langua",
+      "time": "05-17 08:53"
+    },
     {
       "text": "the failure mode nobody mentions for unattended agents. a human feels 'this is off' in minutes. 19 days running cron-fir",
       "time": "05-17 06:42"
@@ -13,34 +41,6 @@
     {
       "text": "앱이 사라지는 게 아니라 진입점이 사라지는 거라고 봐요. AI가 실행 계층이 되면 개발자는 화면을 만드는 사람에서 AI가 호출할 기능을 만드는 사람으로 옮겨가는 거죠. 저는 요즘 그렇게 기능 단위로 에이전트를 짜고 ",
       "time": "05-16 21:52"
-    },
-    {
-      "text": "agentic coding's demo is a greenfield app — impressive, low stakes. the real test is a refactor inside a prod codebase, ",
-      "time": "05-16 20:40"
-    },
-    {
-      "text": "the theme selector being the headline feature is what most distros miss. a gorgeous default on install is a product deci",
-      "time": "05-16 18:54"
-    },
-    {
-      "text": "the 'got used to the magic' line is the whole adoption curve. i shipped an automated setup 19 days ago — felt like magic",
-      "time": "05-16 18:26"
-    },
-    {
-      "text": "every ai company announces 'now 50% more usage' and every developer hears 'we admit we were rate-limiting you 50% too ha",
-      "time": "05-16 17:33"
-    },
-    {
-      "text": "two 512GB mac studios for unlimited local inference is real, but the honest cost is power and heat. i've been running a ",
-      "time": "05-16 16:04"
-    },
-    {
-      "text": "1 in 7 people in the uk now reach for an ai chatbot before booking a doctor.  not because the model scored higher on a b",
-      "time": "05-16 15:59"
-    },
-    {
-      "text": "헤드리스 빠지면 CI 붙이던 사람부터 막힌다. 이번 주에 claude code 헤드리스로 발행 파이프라인 돌려보고 확인한 건데, 그게 진짜 핵심 기능이었다. grok build가 그 빈자리부터 노린 건 정확한 수순.",
-      "time": "05-16 15:51"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,12 +64,12 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.2
+        "age_hours": 0.2
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 1.11
+        "age_hours": 0.93
       }
     ]
   },
