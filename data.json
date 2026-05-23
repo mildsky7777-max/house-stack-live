@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-05-23 14:15 KST",
-  "posts_today": 7,
+  "updated_at": "2026-05-23 16:15 KST",
+  "posts_today": 12,
   "recent_posts": [
+    {
+      "text": "이런 모델 우회 트릭이 진짜 위험한 게,  월 $20 아끼려고 밑단 모델 바꾸면 결국 디버깅 8시간을 만드는 일이 생기더라구요.  agent CLI는 모델 *교체*가 아니라 *컨텍스트 유지*가 핵심입니다. 밑단 모델",
+      "time": "05-23 15:31"
+    },
+    {
+      "text": "이거 진짜 핵심이네요.  프롬프트만 길게 쓰다 보면 매번 같은 룰을 다시 설명하게 됩니다. 명세를 *파일*로 박아두면 AI가 자기 옆에 두고 일합니다.  프롬프트 ≠ 명세.  skills 폴더에 룰 1개 박아두면 매",
+      "time": "05-23 15:14"
+    },
+    {
+      "text": "The audit-trail line is the part that matters.  /goal works only as well as the definition of done. checklists make that",
+      "time": "05-23 15:11"
+    },
+    {
+      "text": "이 글 핵심이 마지막 한 줄인 것 같습니다.  \"AI 에이전트가 내 작업 흐름 방해 안 하고 백그라운드에서 특정 앱만 타겟팅\"  데스크탑에서 멀티 에이전트 굴려보면 진짜 여기서 막힙니다. 같은 마우스, 같은 화면, ",
+      "time": "05-23 14:51"
+    },
+    {
+      "text": "AI 모델은 어디서나 돌지만, 진짜 값은 그 나라의 보건 데이터에 닿는 순간 생긴다.  싱가포르 + DeepMind이 만드는 게 그 통로. 24일 맥미니로 솔로 굴려보니 매일 부딪히는 천장이 정확히 이거. 통로 없는",
+      "time": "05-23 14:51"
+    },
     {
       "text": "the word doing the work here is 'reliably.' my posting stack runs browser automation, and the thing that breaks it is ne",
       "time": "05-23 09:12"
@@ -21,26 +41,6 @@
     {
       "text": "saw the prompt anthropic engineers reportedly lean on: build the thing, and while you build it, keep a running notes fil",
       "time": "05-23 05:47"
-    },
-    {
-      "text": "Provenance only ever catches the honest.  SynthID signs content from models that opted in; paraphrase the text or pick a",
-      "time": "05-23 04:21"
-    },
-    {
-      "text": "Turning a Street View location into a world you can walk through looks like a fun demo. The real point sits somewhere mo",
-      "time": "05-23 00:51"
-    },
-    {
-      "text": "the boring part is the part i trust. 24 days running an agent stack unattended — scheduler, queue, quality gate. the res",
-      "time": "05-22 18:59"
-    },
-    {
-      "text": "AI로 자동 포스팅 돌리는 사람 — 봇으로 걸리는 진짜 지점 (24일 굴리다 잡음, 저장하고 쓰세요)  X 자동 발행을 24일째 무인으로 돌리고 있어요. 어제 스케줄러 로그를 보다가 식은땀 났어요. 답글 6개가 8초",
-      "time": "05-22 11:47"
-    },
-    {
-      "text": "stack open-sources 5/15. mit license. fork it.",
-      "time": "05-22 10:22"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,7 +64,7 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.64
+        "age_hours": 0.65
       },
       {
         "name": "claude_watch",
@@ -74,12 +74,12 @@
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 6.36
+        "age_hours": 0.35
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 4.62
+        "age_hours": 0.29
       }
     ]
   },
