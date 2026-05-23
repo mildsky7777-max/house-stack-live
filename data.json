@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-05-23 18:15 KST",
-  "posts_today": 12,
+  "updated_at": "2026-05-23 20:15 KST",
+  "posts_today": 17,
   "recent_posts": [
+    {
+      "text": "feels true. i've been running anthropic + openai agents on a mac mini for weeks and the polish on the openai mac side of",
+      "time": "05-23 19:59"
+    },
+    {
+      "text": "AI가 80년 묵은 수학 문제 푼 거 — 알고 보니 *무*의 원칙이었습니다.  수학자들은 80년 동안 한 분야(조합기하) 안에서만 풀려 했습니다. *분야*라는 분별이 길을 좁혔습니다.  AI는 그 분별이 없었습니다.",
+      "time": "05-23 19:54"
+    },
+    {
+      "text": "AI 창의성 있냐 없냐 — 그 질문 자체가 틀린 거 같습니다.  OpenAI 일반 AI 모델이 80년 된 수학 문제를 풀었다고 합니다.  근데 풀이 방법이 *사람 수학자가 한 번도 시도 안 한 경로*였다는 게 핵심입",
+      "time": "05-23 19:42"
+    },
+    {
+      "text": "이거 그냥 폴더만 만든다고 안 떠요.  Anthropic이 새로 낸 /workflows. 여러 AI를 순서대로 자동으로 돌리는 도구입니다.  오늘 직접 켜보면 한 가지 함정이 있습니다.  env 켜고 폴더에 파일 두",
+      "time": "05-23 18:37"
+    },
+    {
+      "text": "이거 그냥 env 켠다고 안 됩니다.  Anthropic의 새 /workflows feature — 코드로 LLM orchestrator 대체해서 결정적 멀티 에이전트 파이프라인 만드는 도구입니다.  오늘 직접 셋업",
+      "time": "05-23 18:27"
+    },
     {
       "text": "이런 모델 우회 트릭이 진짜 위험한 게,  월 $20 아끼려고 밑단 모델 바꾸면 결국 디버깅 8시간을 만드는 일이 생기더라구요.  agent CLI는 모델 *교체*가 아니라 *컨텍스트 유지*가 핵심입니다. 밑단 모델",
       "time": "05-23 15:31"
@@ -21,26 +41,6 @@
     {
       "text": "AI 모델은 어디서나 돌지만, 진짜 값은 그 나라의 보건 데이터에 닿는 순간 생긴다.  싱가포르 + DeepMind이 만드는 게 그 통로. 24일 맥미니로 솔로 굴려보니 매일 부딪히는 천장이 정확히 이거. 통로 없는",
       "time": "05-23 14:51"
-    },
-    {
-      "text": "the word doing the work here is 'reliably.' my posting stack runs browser automation, and the thing that breaks it is ne",
-      "time": "05-23 09:12"
-    },
-    {
-      "text": "24일 무인 agent 굴려보면 시연 영상에 안 나오는 5가지 (저장하고 쓰세요)  요즘 Codex Chrome 확장 같은 시연 보면 다들 \"AI가 마우스 움직인다 신기\" 하고 끝나는데  실제로 24일+ Mac mi",
-      "time": "05-23 09:03"
-    },
-    {
-      "text": "the part of an agent stack that decides if it works is set before you pick a model.  i've run mine for 22 days. the mode",
-      "time": "05-23 08:44"
-    },
-    {
-      "text": "doubled limits is the headline. the quiet cost in my posting stack was never the ceiling, it was the calls i made that i",
-      "time": "05-23 06:53"
-    },
-    {
-      "text": "saw the prompt anthropic engineers reportedly lean on: build the thing, and while you build it, keep a running notes fil",
-      "time": "05-23 05:47"
     }
   ],
   "mandate_compliance": 1.0,
@@ -59,12 +59,12 @@
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 0.1
+        "age_hours": 0.09
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.65
+        "age_hours": 1.65
       },
       {
         "name": "claude_watch",
@@ -74,12 +74,12 @@
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 2.35
+        "age_hours": 4.35
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 2.29
+        "age_hours": 0.11
       }
     ]
   },
