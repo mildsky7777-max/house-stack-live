@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23 16:15 KST",
+  "updated_at": "2026-05-23 18:15 KST",
   "posts_today": 12,
   "recent_posts": [
     {
@@ -64,7 +64,7 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.65
+        "age_hours": 2.65
       },
       {
         "name": "claude_watch",
@@ -74,12 +74,12 @@
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 0.35
+        "age_hours": 2.35
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.29
+        "age_hours": 2.29
       }
     ]
   },
