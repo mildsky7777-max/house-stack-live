@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-25 01:00 KST",
-  "posts_today": 0,
+  "updated_at": "2026-05-25 03:00 KST",
+  "posts_today": 2,
   "recent_posts": [
+    {
+      "text": "100K H100 trains Grok. Colossus 2 doubles it. The capex question is loud. The quieter one is whether Grok 4 ships distil",
+      "time": "05-25 02:52"
+    },
+    {
+      "text": "Optimus has 22 DoF hands. Humans have 27. That 5 DoF gap is where roughly 70% of manipulation tasks sit. Consumer pricin",
+      "time": "05-25 02:45"
+    },
     {
       "text": "Boring is the metric. Falcon 9 went invisible the moment it stopped failing.",
       "time": "05-24 22:12"
@@ -33,14 +41,6 @@
     {
       "text": "At 10k/year, rockets wait for payloads, not the other way.",
       "time": "05-24 19:10"
-    },
-    {
-      "text": "I've been running these models daily — 'reliably' is doing all the work in his bet. Single-shot, current systems hit som",
-      "time": "05-24 18:11"
-    },
-    {
-      "text": "3 days to human follow-up. that's faster than any model's retrain loop.",
-      "time": "05-24 18:11"
     }
   ],
   "mandate_compliance": 1.0,
@@ -49,37 +49,37 @@
       {
         "name": "evolution_scanner",
         "ok": true,
-        "age_hours": 1.73
+        "age_hours": 3.81
       },
       {
         "name": "x_trends_scanner",
         "ok": true,
-        "age_hours": 2.22
+        "age_hours": 4.3
       },
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 1.78
+        "age_hours": 3.86
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 3.34
+        "age_hours": 5.42
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 1.01
+        "age_hours": 0.58
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 1.01
+        "age_hours": 3.09
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 2.32
+        "age_hours": 4.4
       }
     ]
   },
