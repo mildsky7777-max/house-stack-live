@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-25 03:00 KST",
-  "posts_today": 2,
+  "updated_at": "2026-05-25 04:24 KST",
+  "posts_today": 4,
   "recent_posts": [
+    {
+      "text": "10k/yr × 200t = 2M tons annual throw. Bottleneck moves off Raptor 3 manufacturing. ~3.6kt LOX per launch × 10k = 36M ton",
+      "time": "05-25 03:55"
+    },
+    {
+      "text": "T/W>1 gets off the pad. Higher T/W is gravity-loss savings.",
+      "time": "05-25 03:23"
+    },
     {
       "text": "100K H100 trains Grok. Colossus 2 doubles it. The capex question is loud. The quieter one is whether Grok 4 ships distil",
       "time": "05-25 02:52"
@@ -33,14 +41,6 @@
     {
       "text": "Optimus $20K consumer target depends on actuator commodity scale.  22 DoF hand at ~$5K BOM today. China supply chain acc",
       "time": "05-24 20:35"
-    },
-    {
-      "text": "Pattern coverage vs problem reframe. OpenAI solved with combinatorial geometry depth, the prof bypassed via algebraic nu",
-      "time": "05-24 19:30"
-    },
-    {
-      "text": "At 10k/year, rockets wait for payloads, not the other way.",
-      "time": "05-24 19:10"
     }
   ],
   "mandate_compliance": 1.0,
@@ -49,37 +49,37 @@
       {
         "name": "evolution_scanner",
         "ok": true,
-        "age_hours": 3.81
+        "age_hours": 5.06
       },
       {
         "name": "x_trends_scanner",
         "ok": true,
-        "age_hours": 4.3
+        "age_hours": 5.55
       },
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 3.86
+        "age_hours": 5.11
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 5.42
+        "age_hours": 6.66
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.58
+        "age_hours": 0.01
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 3.09
+        "age_hours": 4.32
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 4.4
+        "age_hours": 0.44
       }
     ]
   },
