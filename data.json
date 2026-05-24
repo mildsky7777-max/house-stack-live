@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24 22:15 KST",
-  "posts_today": 35,
+  "updated_at": "2026-05-25 01:00 KST",
+  "posts_today": 0,
   "recent_posts": [
     {
       "text": "Boring is the metric. Falcon 9 went invisible the moment it stopped failing.",
@@ -49,37 +49,37 @@
       {
         "name": "evolution_scanner",
         "ok": true,
-        "age_hours": 0.08
+        "age_hours": 1.73
       },
       {
         "name": "x_trends_scanner",
         "ok": true,
-        "age_hours": 1.53
+        "age_hours": 2.22
       },
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 0.09
+        "age_hours": 1.78
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.64
+        "age_hours": 3.34
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.02
+        "age_hours": 1.01
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 2.33
+        "age_hours": 1.01
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.14
+        "age_hours": 2.32
       }
     ]
   },
