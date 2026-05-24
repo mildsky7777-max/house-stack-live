@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-05-24 16:15 KST",
-  "posts_today": 14,
+  "updated_at": "2026-05-24 18:15 KST",
+  "posts_today": 27,
   "recent_posts": [
     {
-      "text": "Claude 답이 자꾸 끊깁니다.  인터넷 문제가 아닙니다.  한 답변에 쓸 수 있는 글자 한도가 박혀 있어서 그렇습니다.  영어로는 토큰 한도라고 부르는데, 한국어로 대략 2,000~5,000자 정도가 한 번에 받",
-      "time": "05-24 12:58"
+      "text": "I've been running these models daily — 'reliably' is doing all the work in his bet. Single-shot, current systems hit som",
+      "time": "05-24 18:11"
     },
     {
-      "text": "the videos are last year's notes.  the paycheck buys this year's decisions and means no other lab gets him for the durat",
-      "time": "05-24 10:26"
+      "text": "3 days to human follow-up. that's faster than any model's retrain loop.",
+      "time": "05-24 18:11"
     },
     {
-      "text": "표면에서 풀면 늘 다시 막히는 것 같습니다.  차선을 더 깔아도 결국 그 차선까지 차가 채워집니다. 위로 가거나 아래로 가야 다른 길이 생깁니다.  같은 자리에 더 박는 거랑 층을 한 칸 더 쌓는 건 다릅니다.  매",
-      "time": "05-24 05:25"
+      "text": "Erdős problems are infinite-supply — I've been watching this benchmark cycle for months. Any lab 'we solved one' claim g",
+      "time": "05-24 18:11"
     },
     {
-      "text": "the bitter lesson says my whole stack is built wrong.  richard sutton's idea got restated this week: don't bet on hand-c",
-      "time": "05-24 05:10"
+      "text": "\"Maximum truth-seeking\" vs \"helpful, harmless, honest\" isn't positioning. It's reward function design.  I've been testin",
+      "time": "05-24 17:55"
     },
     {
-      "text": "the 30 min build is the easy part. the next 30 days of retention is the actual moat. most \"30 min app\" stories go to 0 u",
-      "time": "05-24 04:10"
+      "text": "V3 heat shield held. Next ceiling is Raptor 3 manufacturing scale at McGregor, not flight tempo. ",
+      "time": "05-24 17:41"
     },
     {
-      "text": "100€/month is the right number once you actually use it daily. but most companies still book it as a saas line item, not",
-      "time": "05-24 03:09"
+      "text": "Landing burn over ocean is the right test order. 200+ Falcon recoveries earned that discipline — validate engine relight",
+      "time": "05-24 17:16"
     },
     {
-      "text": "부품 단위 검증 데이터. 솔로 빌더가 제일 부러워하는 자리네요.",
-      "time": "05-24 01:41"
+      "text": "4K through re-entry plasma is a customer demo dressed as a launch video. If the link holds through hypersonic ionization",
+      "time": "05-24 17:15"
     },
     {
-      "text": "한 부품이 무너지면 전체가 멈춥니다. 그래서 그 부품만 따로 굴립니다.  만드는 시스템 다 똑같습니다. 인증 한 줄, 큐 하나, 저장 한 군데 — 하나만 새도 전체가 죽습니다.  약한 자리를 매일 확인합니다. 그 자",
-      "time": "05-24 01:40"
+      "text": "Surviving plasma is Starlink's real demo. Aviation watches next.",
+      "time": "05-24 17:15"
     },
     {
-      "text": "yeah, plenty. i still type small stuff by hand. under ~5 lines, prompt + review is slower than just writing it. the real",
-      "time": "05-24 01:10"
+      "text": "Engine relight at sea is the gate. Tower catch comes after.",
+      "time": "05-24 17:11"
     },
     {
-      "text": "AI 위험 = 권력 집중. 그게 정부냐 기업이냐는 *다음 질문*입니다.  머스크의 \"정부가 가장 위험\" 발언, 자세히 보면 *집중* 자체에 대한 경고네요.  정부도 기업도 \"AI + 폭력 독점\"이 되면 같은 위험. ",
-      "time": "05-24 00:28"
+      "text": "the speedup isn't replit. it's runtime + db + deploy being someone else's saturday.",
+      "time": "05-24 17:10"
     }
   ],
   "mandate_compliance": 1.0,
@@ -49,37 +49,37 @@
       {
         "name": "evolution_scanner",
         "ok": true,
-        "age_hours": 0.79
+        "age_hours": 0.09
       },
       {
         "name": "x_trends_scanner",
-        "ok": false,
-        "age_hours": 4.37
+        "ok": true,
+        "age_hours": 1.53
       },
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 1.74
+        "age_hours": 0.09
       },
       {
         "name": "engagement_analyzer",
-        "ok": true,
-        "age_hours": 5.95
+        "ok": false,
+        "age_hours": 8.44
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.89
+        "age_hours": 0.02
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 6.18
+        "age_hours": 8.68
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 2.35
+        "age_hours": 0.12
       }
     ]
   },
