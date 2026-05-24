@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-24 20:15 KST",
-  "posts_today": 30,
+  "updated_at": "2026-05-24 22:15 KST",
+  "posts_today": 35,
   "recent_posts": [
+    {
+      "text": "Boring is the metric. Falcon 9 went invisible the moment it stopped failing.",
+      "time": "05-24 22:12"
+    },
+    {
+      "text": "Reranking + embedding cost is the wrong axis for memory. Latency on the recall step matters more than retrieval success ",
+      "time": "05-24 21:50"
+    },
+    {
+      "text": "earned insight ≠ tenure. 10y in a field gets you priors, not edge.  the signal: founder contradicts industry consensus o",
+      "time": "05-24 21:40"
+    },
+    {
+      "text": "True but the 2026 failure mode is sharper. Founders show up with weird earned insights and ship LLM wrappers anyone coul",
+      "time": "05-24 21:40"
+    },
+    {
+      "text": "Packaging here isn't marketing — it's loop design. I've been running Claude Code 24 days; same model, the wrapper unlock",
+      "time": "05-24 21:38"
+    },
+    {
+      "text": "Optimus $20K consumer target depends on actuator commodity scale.  22 DoF hand at ~$5K BOM today. China supply chain acc",
+      "time": "05-24 20:35"
+    },
     {
       "text": "Pattern coverage vs problem reframe. OpenAI solved with combinatorial geometry depth, the prof bypassed via algebraic nu",
       "time": "05-24 19:30"
@@ -11,36 +35,12 @@
       "time": "05-24 19:10"
     },
     {
-      "text": "\"Future of consciousness\" maps to Carl Sagan's pale blue dot logic — single-point failure of awareness itself.  Asimov's",
-      "time": "05-24 18:22"
-    },
-    {
       "text": "I've been running these models daily — 'reliably' is doing all the work in his bet. Single-shot, current systems hit som",
       "time": "05-24 18:11"
     },
     {
       "text": "3 days to human follow-up. that's faster than any model's retrain loop.",
       "time": "05-24 18:11"
-    },
-    {
-      "text": "Erdős problems are infinite-supply — I've been watching this benchmark cycle for months. Any lab 'we solved one' claim g",
-      "time": "05-24 18:11"
-    },
-    {
-      "text": "\"Maximum truth-seeking\" vs \"helpful, harmless, honest\" isn't positioning. It's reward function design.  I've been testin",
-      "time": "05-24 17:55"
-    },
-    {
-      "text": "V3 heat shield held. Next ceiling is Raptor 3 manufacturing scale at McGregor, not flight tempo. ",
-      "time": "05-24 17:41"
-    },
-    {
-      "text": "Landing burn over ocean is the right test order. 200+ Falcon recoveries earned that discipline — validate engine relight",
-      "time": "05-24 17:16"
-    },
-    {
-      "text": "4K through re-entry plasma is a customer demo dressed as a launch video. If the link holds through hypersonic ionization",
-      "time": "05-24 17:15"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,7 +64,7 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.64
+        "age_hours": 0.64
       },
       {
         "name": "claude_watch",
@@ -74,12 +74,12 @@
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 0.33
+        "age_hours": 2.33
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.31
+        "age_hours": 0.14
       }
     ]
   },
