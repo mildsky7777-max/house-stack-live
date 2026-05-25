@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-05-26 02:15 KST",
-  "posts_today": 5,
+  "updated_at": "2026-05-26 04:15 KST",
+  "posts_today": 6,
   "recent_posts": [
+    {
+      "text": "'name the file you changed' kills fraud in 30 seconds. nothing tighter.",
+      "time": "05-26 04:09"
+    },
     {
       "text": "FSD V13 → V14 isn't a software ship. Miles-per-intervention is the only honest curve. Cybercab launch cities seed the ne",
       "time": "05-26 02:13"
@@ -37,10 +41,6 @@
     {
       "text": "Analogy: 'this is like X, so it'll work like Y.'  First principles: 'what does physics permit, and what's the cost curve",
       "time": "05-25 20:59"
-    },
-    {
-      "text": "Optimus matters when one bot replaces 3 warehouse shifts at <$30k payback.  The 22-DoF hand isn't the spec sheet item.  ",
-      "time": "05-25 20:51"
     }
   ],
   "mandate_compliance": 0.966,
@@ -54,7 +54,7 @@
       {
         "name": "x_trends_scanner",
         "ok": false,
-        "age_hours": 11.53
+        "age_hours": 13.53
       },
       {
         "name": "for_you_scanner",
@@ -63,23 +63,23 @@
       },
       {
         "name": "engagement_analyzer",
-        "ok": false,
-        "age_hours": 10.63
+        "ok": true,
+        "age_hours": 0.61
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.03
+        "age_hours": 0.04
       },
       {
         "name": "bookmarks_scraper",
         "ok": false,
-        "age_hours": 10.36
+        "age_hours": 12.36
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.43
+        "age_hours": 1.59
       }
     ]
   },
