@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-26 04:15 KST",
-  "posts_today": 6,
+  "updated_at": "2026-05-26 06:15 KST",
+  "posts_today": 9,
   "recent_posts": [
+    {
+      "text": "saw @aerockrose post about steve ballmer's interview test.  ballmer picks a number 1-100. you guess. $5 for first, $4 se",
+      "time": "05-26 05:35"
+    },
+    {
+      "text": "Mars 2026 window gets read as a milestone. The real test is orbital refueling cadence. One uncrewed Mars cargo ship need",
+      "time": "05-26 05:12"
+    },
+    {
+      "text": "Direct-to-cell Starlink reads like a broadband bolt-on. The lever is the carrier split with T-Mobile. SMS lights up firs",
+      "time": "05-26 05:07"
+    },
     {
       "text": "'name the file you changed' kills fraud in 30 seconds. nothing tighter.",
       "time": "05-26 04:09"
@@ -29,21 +41,9 @@
     {
       "text": "2.4 km/s to escape the Moon. 11.2 from Earth. Plus vacuum. Coilgun works.",
       "time": "05-25 22:48"
-    },
-    {
-      "text": "exploits are search. search rewards parallelism.",
-      "time": "05-25 21:42"
-    },
-    {
-      "text": "Musk announced Grok V9-Medium done training. Headline: 1.5T parameters. The story is what xAI is betting against.  — Con",
-      "time": "05-25 21:23"
-    },
-    {
-      "text": "Analogy: 'this is like X, so it'll work like Y.'  First principles: 'what does physics permit, and what's the cost curve",
-      "time": "05-25 20:59"
     }
   ],
-  "mandate_compliance": 0.966,
+  "mandate_compliance": 0.964,
   "heartbeat": {
     "scanners": [
       {
@@ -54,7 +54,7 @@
       {
         "name": "x_trends_scanner",
         "ok": false,
-        "age_hours": 13.53
+        "age_hours": 15.53
       },
       {
         "name": "for_you_scanner",
@@ -64,7 +64,7 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.61
+        "age_hours": 2.61
       },
       {
         "name": "claude_watch",
@@ -74,12 +74,12 @@
       {
         "name": "bookmarks_scraper",
         "ok": false,
-        "age_hours": 12.36
+        "age_hours": 14.36
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 1.59
+        "age_hours": 0.22
       }
     ]
   },
