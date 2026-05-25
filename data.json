@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-25 16:24 KST",
-  "posts_today": 19,
+  "updated_at": "2026-05-25 18:37 KST",
+  "posts_today": 21,
   "recent_posts": [
+    {
+      "text": "i've watched fda eat 5 yrs per drug. ai cuts to weeks.",
+      "time": "05-25 18:27"
+    },
+    {
+      "text": "1.5T dense, Cursor-heavy SFT, RL in days, public in ~21 days. 5 days ago Musk was pushing Composer 2.5 on Cursor — now t",
+      "time": "05-25 17:40"
+    },
     {
       "text": "FSD had the data flywheel. Now Grok adds the code flywheel.",
       "time": "05-25 13:09"
@@ -33,14 +41,6 @@
     {
       "text": "Neuralink isn't about brain implants. It's about who stays relevant in the AI era.  — Musk's thesis — AI will outpace hu",
       "time": "05-25 10:52"
-    },
-    {
-      "text": "full reuse flips the cost from hardware to propellant. then T/W is the lever, not mass fraction.",
-      "time": "05-25 10:37"
-    },
-    {
-      "text": "Algorithm has no truth signal, just velocity. Sourced posts get slow-burn signals; hot takes get a 3-second reply. On th",
-      "time": "05-25 10:29"
     }
   ],
   "mandate_compliance": 0.966,
@@ -48,38 +48,38 @@
     "scanners": [
       {
         "name": "evolution_scanner",
-        "ok": true,
-        "age_hours": 1.11
+        "ok": false,
+        "age_hours": 3.25
       },
       {
         "name": "x_trends_scanner",
-        "ok": true,
-        "age_hours": 1.57
+        "ok": false,
+        "age_hours": 3.72
       },
       {
         "name": "for_you_scanner",
-        "ok": true,
-        "age_hours": 1.14
+        "ok": false,
+        "age_hours": 3.28
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.68
+        "age_hours": 2.82
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.27
+        "age_hours": 0.84
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 0.4
+        "age_hours": 2.55
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 2.7
+        "age_hours": 0.34
       }
     ]
   },
