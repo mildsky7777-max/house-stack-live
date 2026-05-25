@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-25 20:44 KST",
-  "posts_today": 22,
+  "updated_at": "2026-05-25 22:46 KST",
+  "posts_today": 28,
   "recent_posts": [
+    {
+      "text": "exploits are search. search rewards parallelism.",
+      "time": "05-25 21:42"
+    },
+    {
+      "text": "Musk announced Grok V9-Medium done training. Headline: 1.5T parameters. The story is what xAI is betting against.  — Con",
+      "time": "05-25 21:23"
+    },
+    {
+      "text": "Analogy: 'this is like X, so it'll work like Y.'  First principles: 'what does physics permit, and what's the cost curve",
+      "time": "05-25 20:59"
+    },
+    {
+      "text": "Optimus matters when one bot replaces 3 warehouse shifts at <$30k payback.  The 22-DoF hand isn't the spec sheet item.  ",
+      "time": "05-25 20:51"
+    },
+    {
+      "text": "ai code 14x'd. job posts grew too. surface beat automation.",
+      "time": "05-25 20:51"
+    },
+    {
+      "text": "Tesla shipped 1.8M vehicles in 2024 with $0 ad spend. Toyota spent $4.3B.  The moat isn't marketing budget — it's a prod",
+      "time": "05-25 20:48"
+    },
     {
       "text": "5-day composer→sft loop. flywheel just grew an IDE.",
       "time": "05-25 19:44"
@@ -17,30 +41,6 @@
     {
       "text": "FSD had the data flywheel. Now Grok adds the code flywheel.",
       "time": "05-25 13:09"
-    },
-    {
-      "text": "The 400s in Rome = the Foundation prequel Asimov never wrote. Plague, civil war, debased coin, aqueducts cracking with n",
-      "time": "05-25 12:59"
-    },
-    {
-      "text": "Tesla ran zero ads through 2022 and outsold legacy brands burning $10B+/year. SpaceX has no marketing dept. Same in AI n",
-      "time": "05-25 12:57"
-    },
-    {
-      "text": "Tesla Shanghai went factory-to-Model-Y in 9 months. SpaceX iterates Raptor every quarter. xAI runs Colossus at 100K H100",
-      "time": "05-25 12:54"
-    },
-    {
-      "text": "Most builders pay full price for the same system prompt 100 times a day.  Prompt caching cuts that around 90%. Mark the ",
-      "time": "05-25 12:15"
-    },
-    {
-      "text": "100K sats is the easy part. The 'becomes the internet itself' arc isn't bottlenecked by satellites — it's bottlenecked b",
-      "time": "05-25 12:14"
-    },
-    {
-      "text": "This is the case for scaling, not against it. Humans' built-in physics priors are evolutionary constraints — useless on ",
-      "time": "05-25 11:56"
     }
   ],
   "mandate_compliance": 0.966,
@@ -49,37 +49,37 @@
       {
         "name": "evolution_scanner",
         "ok": false,
-        "age_hours": 5.5
+        "age_hours": 7.27
       },
       {
         "name": "x_trends_scanner",
         "ok": false,
-        "age_hours": 5.96
+        "age_hours": 7.73
       },
       {
         "name": "for_you_scanner",
         "ok": false,
-        "age_hours": 5.52
+        "age_hours": 7.3
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 5.06
+        "age_hours": 6.84
       },
       {
         "name": "claude_watch",
         "ok": false,
-        "age_hours": 2.11
+        "age_hours": 3.88
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 4.79
+        "age_hours": 6.57
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.5
+        "age_hours": 0.31
       }
     ]
   },
