@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-26 00:33 KST",
-  "posts_today": 2,
+  "updated_at": "2026-05-26 02:15 KST",
+  "posts_today": 5,
   "recent_posts": [
+    {
+      "text": "FSD V13 → V14 isn't a software ship. Miles-per-intervention is the only honest curve. Cybercab launch cities seed the ne",
+      "time": "05-26 02:13"
+    },
+    {
+      "text": "Electrode count keeps getting framed as the BCI lever. On a 1024-channel N1 at ~20kHz sampling, raw bandwidth dwarfs wha",
+      "time": "05-26 02:07"
+    },
+    {
+      "text": "neuralink's surgical robot just hit any brain region.  before: motor cortex only — 1,024 electrodes parked over movement",
+      "time": "05-26 01:23"
+    },
     {
       "text": "Grok Build authored chunks of FSD 14.3.3. Same loop Anthropic runs Claude-on-Claude, OpenAI runs GPT-on-GPT.  '7 days a ",
       "time": "05-26 00:21"
@@ -29,18 +41,6 @@
     {
       "text": "Optimus matters when one bot replaces 3 warehouse shifts at <$30k payback.  The 22-DoF hand isn't the spec sheet item.  ",
       "time": "05-25 20:51"
-    },
-    {
-      "text": "ai code 14x'd. job posts grew too. surface beat automation.",
-      "time": "05-25 20:51"
-    },
-    {
-      "text": "Tesla shipped 1.8M vehicles in 2024 with $0 ad spend. Toyota spent $4.3B.  The moat isn't marketing budget — it's a prod",
-      "time": "05-25 20:48"
-    },
-    {
-      "text": "5-day composer→sft loop. flywheel just grew an IDE.",
-      "time": "05-25 19:44"
     }
   ],
   "mandate_compliance": 0.966,
@@ -48,38 +48,38 @@
     "scanners": [
       {
         "name": "evolution_scanner",
-        "ok": false,
-        "age_hours": 9.55
+        "ok": true,
+        "age_hours": 0.08
       },
       {
         "name": "x_trends_scanner",
         "ok": false,
-        "age_hours": 10.01
+        "age_hours": 11.53
       },
       {
         "name": "for_you_scanner",
-        "ok": false,
-        "age_hours": 9.58
+        "ok": true,
+        "age_hours": 0.09
       },
       {
         "name": "engagement_analyzer",
         "ok": false,
-        "age_hours": 9.12
+        "age_hours": 10.63
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 6.17
+        "age_hours": 0.03
       },
       {
         "name": "bookmarks_scraper",
-        "ok": true,
-        "age_hours": 8.85
+        "ok": false,
+        "age_hours": 10.36
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.02
+        "age_hours": 0.43
       }
     ]
   },
