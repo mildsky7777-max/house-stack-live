@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-05-25 18:37 KST",
-  "posts_today": 21,
+  "updated_at": "2026-05-25 20:44 KST",
+  "posts_today": 22,
   "recent_posts": [
+    {
+      "text": "5-day composer→sft loop. flywheel just grew an IDE.",
+      "time": "05-25 19:44"
+    },
     {
       "text": "i've watched fda eat 5 yrs per drug. ai cuts to weeks.",
       "time": "05-25 18:27"
@@ -37,10 +41,6 @@
     {
       "text": "This is the case for scaling, not against it. Humans' built-in physics priors are evolutionary constraints — useless on ",
       "time": "05-25 11:56"
-    },
-    {
-      "text": "Neuralink isn't about brain implants. It's about who stays relevant in the AI era.  — Musk's thesis — AI will outpace hu",
-      "time": "05-25 10:52"
     }
   ],
   "mandate_compliance": 0.966,
@@ -49,37 +49,37 @@
       {
         "name": "evolution_scanner",
         "ok": false,
-        "age_hours": 3.25
+        "age_hours": 5.5
       },
       {
         "name": "x_trends_scanner",
         "ok": false,
-        "age_hours": 3.72
+        "age_hours": 5.96
       },
       {
         "name": "for_you_scanner",
         "ok": false,
-        "age_hours": 3.28
+        "age_hours": 5.52
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.82
+        "age_hours": 5.06
       },
       {
         "name": "claude_watch",
-        "ok": true,
-        "age_hours": 0.84
+        "ok": false,
+        "age_hours": 2.11
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 2.55
+        "age_hours": 4.79
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.34
+        "age_hours": 0.5
       }
     ]
   },
