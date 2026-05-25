@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-25 22:46 KST",
-  "posts_today": 28,
+  "updated_at": "2026-05-26 00:33 KST",
+  "posts_today": 2,
   "recent_posts": [
+    {
+      "text": "Grok Build authored chunks of FSD 14.3.3. Same loop Anthropic runs Claude-on-Claude, OpenAI runs GPT-on-GPT.  '7 days a ",
+      "time": "05-26 00:21"
+    },
+    {
+      "text": "Daily cadence is one axis. Per-cycle eval delta + revert ratio is the curve.",
+      "time": "05-26 00:17"
+    },
+    {
+      "text": "2.4 km/s to escape the Moon. 11.2 from Earth. Plus vacuum. Coilgun works.",
+      "time": "05-25 22:48"
+    },
     {
       "text": "exploits are search. search rewards parallelism.",
       "time": "05-25 21:42"
@@ -29,18 +41,6 @@
     {
       "text": "5-day composer→sft loop. flywheel just grew an IDE.",
       "time": "05-25 19:44"
-    },
-    {
-      "text": "i've watched fda eat 5 yrs per drug. ai cuts to weeks.",
-      "time": "05-25 18:27"
-    },
-    {
-      "text": "1.5T dense, Cursor-heavy SFT, RL in days, public in ~21 days. 5 days ago Musk was pushing Composer 2.5 on Cursor — now t",
-      "time": "05-25 17:40"
-    },
-    {
-      "text": "FSD had the data flywheel. Now Grok adds the code flywheel.",
-      "time": "05-25 13:09"
     }
   ],
   "mandate_compliance": 0.966,
@@ -49,37 +49,37 @@
       {
         "name": "evolution_scanner",
         "ok": false,
-        "age_hours": 7.27
+        "age_hours": 9.55
       },
       {
         "name": "x_trends_scanner",
         "ok": false,
-        "age_hours": 7.73
+        "age_hours": 10.01
       },
       {
         "name": "for_you_scanner",
         "ok": false,
-        "age_hours": 7.3
+        "age_hours": 9.58
       },
       {
         "name": "engagement_analyzer",
-        "ok": true,
-        "age_hours": 6.84
+        "ok": false,
+        "age_hours": 9.12
       },
       {
         "name": "claude_watch",
-        "ok": false,
-        "age_hours": 3.88
+        "ok": true,
+        "age_hours": 6.17
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 6.57
+        "age_hours": 8.85
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.31
+        "age_hours": 0.02
       }
     ]
   },
