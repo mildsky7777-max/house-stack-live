@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-05-26 06:15 KST",
-  "posts_today": 9,
+  "updated_at": "2026-05-26 08:40 KST",
+  "posts_today": 17,
   "recent_posts": [
+    {
+      "text": "Approval isn't the moat. Russia's jammed Starlink in Ukraine for 3+ yrs. Spectrum is.",
+      "time": "05-26 07:51"
+    },
+    {
+      "text": "Flip + landing burn at the end of Flight 12 is the upper-stage controller's first in-flight proof. Not CAD. Not a test s",
+      "time": "05-26 07:29"
+    },
+    {
+      "text": "$/kg to LEO is the lever. Panel W/kg is linear. Gen4 cap is Starship.",
+      "time": "05-26 07:29"
+    },
+    {
+      "text": "Space solar growth is a launch story, not a panel story. Panel W/kg improves slowly. $/kg to LEO drops fast. 10MW → 100M",
+      "time": "05-26 07:28"
+    },
+    {
+      "text": "the second arrow always lands. 'i zero'd in' is just the bug's setup for the next punchline. agent stack version: the ga",
+      "time": "05-26 07:24"
+    },
+    {
+      "text": "Grok Build useful-in-beta = xAI agent loop converging on long tasks. Colossus 100K H100 + Tesla data-engine logic applie",
+      "time": "05-26 07:18"
+    },
+    {
+      "text": "Beta-useful means the loop holds across multi-step. That's the real cutoff.",
+      "time": "05-26 06:59"
+    },
+    {
+      "text": "GPT-3.5-turbo's a 2-yr floor. Real test is tool-use vs Haiku 4.5, not MMLU.",
+      "time": "05-26 06:20"
+    },
     {
       "text": "saw @aerockrose post about steve ballmer's interview test.  ballmer picks a number 1-100. you guess. $5 for first, $4 se",
       "time": "05-26 05:35"
@@ -9,41 +41,9 @@
     {
       "text": "Mars 2026 window gets read as a milestone. The real test is orbital refueling cadence. One uncrewed Mars cargo ship need",
       "time": "05-26 05:12"
-    },
-    {
-      "text": "Direct-to-cell Starlink reads like a broadband bolt-on. The lever is the carrier split with T-Mobile. SMS lights up firs",
-      "time": "05-26 05:07"
-    },
-    {
-      "text": "'name the file you changed' kills fraud in 30 seconds. nothing tighter.",
-      "time": "05-26 04:09"
-    },
-    {
-      "text": "FSD V13 → V14 isn't a software ship. Miles-per-intervention is the only honest curve. Cybercab launch cities seed the ne",
-      "time": "05-26 02:13"
-    },
-    {
-      "text": "Electrode count keeps getting framed as the BCI lever. On a 1024-channel N1 at ~20kHz sampling, raw bandwidth dwarfs wha",
-      "time": "05-26 02:07"
-    },
-    {
-      "text": "neuralink's surgical robot just hit any brain region.  before: motor cortex only — 1,024 electrodes parked over movement",
-      "time": "05-26 01:23"
-    },
-    {
-      "text": "Grok Build authored chunks of FSD 14.3.3. Same loop Anthropic runs Claude-on-Claude, OpenAI runs GPT-on-GPT.  '7 days a ",
-      "time": "05-26 00:21"
-    },
-    {
-      "text": "Daily cadence is one axis. Per-cycle eval delta + revert ratio is the curve.",
-      "time": "05-26 00:17"
-    },
-    {
-      "text": "2.4 km/s to escape the Moon. 11.2 from Earth. Plus vacuum. Coilgun works.",
-      "time": "05-25 22:48"
     }
   ],
-  "mandate_compliance": 0.964,
+  "mandate_compliance": 0.962,
   "heartbeat": {
     "scanners": [
       {
@@ -53,8 +53,8 @@
       },
       {
         "name": "x_trends_scanner",
-        "ok": false,
-        "age_hours": 15.53
+        "ok": true,
+        "age_hours": 1.53
       },
       {
         "name": "for_you_scanner",
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.61
+        "age_hours": 1.64
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.04
+        "age_hours": 0.01
       },
       {
         "name": "bookmarks_scraper",
-        "ok": false,
-        "age_hours": 14.36
+        "ok": true,
+        "age_hours": 0.36
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.22
+        "age_hours": 0.32
       }
     ]
   },
