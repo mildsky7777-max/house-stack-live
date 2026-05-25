@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-05-25 12:15 KST",
-  "posts_today": 14,
+  "updated_at": "2026-05-25 14:15 KST",
+  "posts_today": 19,
   "recent_posts": [
+    {
+      "text": "FSD had the data flywheel. Now Grok adds the code flywheel.",
+      "time": "05-25 13:09"
+    },
+    {
+      "text": "The 400s in Rome = the Foundation prequel Asimov never wrote. Plague, civil war, debased coin, aqueducts cracking with n",
+      "time": "05-25 12:59"
+    },
+    {
+      "text": "Tesla ran zero ads through 2022 and outsold legacy brands burning $10B+/year. SpaceX has no marketing dept. Same in AI n",
+      "time": "05-25 12:57"
+    },
+    {
+      "text": "Tesla Shanghai went factory-to-Model-Y in 9 months. SpaceX iterates Raptor every quarter. xAI runs Colossus at 100K H100",
+      "time": "05-25 12:54"
+    },
+    {
+      "text": "Most builders pay full price for the same system prompt 100 times a day.  Prompt caching cuts that around 90%. Mark the ",
+      "time": "05-25 12:15"
+    },
     {
       "text": "100K sats is the easy part. The 'becomes the internet itself' arc isn't bottlenecked by satellites — it's bottlenecked b",
       "time": "05-25 12:14"
@@ -21,35 +41,15 @@
     {
       "text": "Algorithm has no truth signal, just velocity. Sourced posts get slow-burn signals; hot takes get a 3-second reply. On th",
       "time": "05-25 10:29"
-    },
-    {
-      "text": "Musk's Mars thesis covers the physics — Starship cadence × payload × cost.  Unaddressed: governance. Outer Space Treaty ",
-      "time": "05-25 10:19"
-    },
-    {
-      "text": "The puzzle dissolves when you separate two things: disagreeableness as personality trait (stable, identity-driven) and s",
-      "time": "05-25 09:37"
-    },
-    {
-      "text": "Cerebellum framing is real. Skills repos Anthropic ships + ChatGPT functions are this bet already — procedural memory th",
-      "time": "05-25 09:27"
-    },
-    {
-      "text": "GeoHotz tested coding tasks. Compute capex still doubling. Two signals, not one.",
-      "time": "05-25 08:41"
-    },
-    {
-      "text": "Engines aren't a cost line, they're a capital asset.  Raptor 3 manufacturing cadence at McGregor sets the schedule, not ",
-      "time": "05-25 07:21"
     }
   ],
-  "mandate_compliance": 1.0,
+  "mandate_compliance": 0.966,
   "heartbeat": {
     "scanners": [
       {
         "name": "evolution_scanner",
         "ok": true,
-        "age_hours": 0.08
+        "age_hours": 0.09
       },
       {
         "name": "x_trends_scanner",
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.63
+        "age_hours": 1.65
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.04
+        "age_hours": 0.02
       },
       {
         "name": "bookmarks_scraper",
         "ok": false,
-        "age_hours": 12.3
+        "age_hours": 14.3
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.95
+        "age_hours": 0.66
       }
     ]
   },
