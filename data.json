@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-26 20:15 KST",
-  "posts_today": 43,
+  "updated_at": "2026-05-26 22:15 KST",
+  "posts_today": 45,
   "recent_posts": [
+    {
+      "text": "Three things shipped this week and they look unrelated until you look at the model layer.  Tesla put Grok in the car. Sa",
+      "time": "05-26 21:15"
+    },
+    {
+      "text": "Electricity from any plug works the same. Coding with Claude vs Grok vs ChatGPT — very different output depending on the",
+      "time": "05-26 20:16"
+    },
     {
       "text": "Most high-speed rail dies at v². Rolling friction scales with weight. Air drag scales with speed squared.  Vacuum tube p",
       "time": "05-26 20:08"
@@ -33,14 +41,6 @@
     {
       "text": "Starlink V2: 96 Gbps per satellite. V3: 1,024 Gbps.  That is a 10.7x leap in capacity per launch.  Starship was always f",
       "time": "05-26 19:10"
-    },
-    {
-      "text": "Build surface inside chat. Lock-in begins. Export-to-repo is the moat test.",
-      "time": "05-26 19:05"
-    },
-    {
-      "text": "'guide' undersells it. xAI now ships preinstalled in Teslas.",
-      "time": "05-26 19:04"
     }
   ],
   "mandate_compliance": 1.0,
@@ -53,8 +53,8 @@
       },
       {
         "name": "x_trends_scanner",
-        "ok": false,
-        "age_hours": 13.53
+        "ok": true,
+        "age_hours": 1.53
       },
       {
         "name": "for_you_scanner",
@@ -63,8 +63,8 @@
       },
       {
         "name": "engagement_analyzer",
-        "ok": false,
-        "age_hours": 13.64
+        "ok": true,
+        "age_hours": 0.62
       },
       {
         "name": "claude_watch",
@@ -74,12 +74,12 @@
       {
         "name": "bookmarks_scraper",
         "ok": false,
-        "age_hours": 12.36
+        "age_hours": 14.36
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.1
+        "age_hours": 0.56
       }
     ]
   },
