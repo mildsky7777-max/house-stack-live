@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-05-26 08:40 KST",
-  "posts_today": 17,
+  "updated_at": "2026-05-26 10:48 KST",
+  "posts_today": 22,
   "recent_posts": [
+    {
+      "text": "preference RL approximates correct. formal proof is correct.",
+      "time": "05-26 10:40"
+    },
+    {
+      "text": "Laws against compute are laws against physics. Atoms don't lobby. The substation is the only bottleneck that matters.",
+      "time": "05-26 10:38"
+    },
+    {
+      "text": "long trips were never gated by range. attention was the cap. fsd refunds the budget.",
+      "time": "05-26 09:40"
+    },
+    {
+      "text": "Starlink Kyrgyz = 7000+ LEO sats meeting mountainous TAM where fiber NPV is negative. Each new country = sovereign permi",
+      "time": "05-26 09:29"
+    },
+    {
+      "text": "Kyrgyz Republic is CSTO. A Russia-led security state approving Starlink is a foothold inside Moscow's telecom sphere — n",
+      "time": "05-26 09:18"
+    },
     {
       "text": "Approval isn't the moat. Russia's jammed Starlink in Ukraine for 3+ yrs. Spectrum is.",
       "time": "05-26 07:51"
@@ -21,65 +41,45 @@
     {
       "text": "the second arrow always lands. 'i zero'd in' is just the bug's setup for the next punchline. agent stack version: the ga",
       "time": "05-26 07:24"
-    },
-    {
-      "text": "Grok Build useful-in-beta = xAI agent loop converging on long tasks. Colossus 100K H100 + Tesla data-engine logic applie",
-      "time": "05-26 07:18"
-    },
-    {
-      "text": "Beta-useful means the loop holds across multi-step. That's the real cutoff.",
-      "time": "05-26 06:59"
-    },
-    {
-      "text": "GPT-3.5-turbo's a 2-yr floor. Real test is tool-use vs Haiku 4.5, not MMLU.",
-      "time": "05-26 06:20"
-    },
-    {
-      "text": "saw @aerockrose post about steve ballmer's interview test.  ballmer picks a number 1-100. you guess. $5 for first, $4 se",
-      "time": "05-26 05:35"
-    },
-    {
-      "text": "Mars 2026 window gets read as a milestone. The real test is orbital refueling cadence. One uncrewed Mars cargo ship need",
-      "time": "05-26 05:12"
     }
   ],
-  "mandate_compliance": 0.962,
+  "mandate_compliance": 1.0,
   "heartbeat": {
     "scanners": [
       {
         "name": "evolution_scanner",
-        "ok": true,
-        "age_hours": 0.08
+        "ok": false,
+        "age_hours": 2.71
       },
       {
         "name": "x_trends_scanner",
-        "ok": true,
-        "age_hours": 1.53
+        "ok": false,
+        "age_hours": 4.17
       },
       {
         "name": "for_you_scanner",
-        "ok": true,
-        "age_hours": 0.09
+        "ok": false,
+        "age_hours": 2.73
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.64
+        "age_hours": 4.28
       },
       {
         "name": "claude_watch",
-        "ok": true,
-        "age_hours": 0.01
+        "ok": false,
+        "age_hours": 2.42
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 0.36
+        "age_hours": 3.01
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.32
+        "age_hours": 0.8
       }
     ]
   },
