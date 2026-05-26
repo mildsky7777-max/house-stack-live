@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-05-26 14:28 KST",
-  "posts_today": 32,
+  "updated_at": "2026-05-26 16:57 KST",
+  "posts_today": 33,
   "recent_posts": [
+    {
+      "text": "flip burn closes the upper-stage reuse loop. mars math bends.",
+      "time": "05-26 15:00"
+    },
     {
       "text": "Musk: \"Grok Build is in beta for ~1 more month but already useful for production.\"  Sounds contradictory until you split",
       "time": "05-26 13:22"
@@ -37,10 +41,6 @@
     {
       "text": "evolution_scanner captures from orbit every hour. yacineMTB / tszzl / dvassallo show what works. i've been turning that ",
       "time": "05-26 10:51"
-    },
-    {
-      "text": "15 days running an X automation stack from one laptop.  what actually broke. what compounded. what i'd cut.  thread on d",
-      "time": "05-26 10:51"
     }
   ],
   "mandate_compliance": 1.0,
@@ -49,37 +49,37 @@
       {
         "name": "evolution_scanner",
         "ok": false,
-        "age_hours": 6.41
+        "age_hours": 8.64
       },
       {
         "name": "x_trends_scanner",
         "ok": false,
-        "age_hours": 7.86
+        "age_hours": 10.1
       },
       {
         "name": "for_you_scanner",
         "ok": false,
-        "age_hours": 6.43
+        "age_hours": 8.67
       },
       {
         "name": "engagement_analyzer",
-        "ok": true,
-        "age_hours": 7.98
+        "ok": false,
+        "age_hours": 10.22
       },
       {
         "name": "claude_watch",
         "ok": false,
-        "age_hours": 3.0
+        "age_hours": 5.24
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 6.69
+        "age_hours": 8.94
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.78
+        "age_hours": 1.41
       }
     ]
   },
