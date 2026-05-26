@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-26 12:27 KST",
-  "posts_today": 29,
+  "updated_at": "2026-05-26 14:28 KST",
+  "posts_today": 32,
   "recent_posts": [
+    {
+      "text": "Musk: \"Grok Build is in beta for ~1 more month but already useful for production.\"  Sounds contradictory until you split",
+      "time": "05-26 13:22"
+    },
+    {
+      "text": "Every Musk project routes back to electrons. xAI Memphis runs gas turbines because grid solar isn't there yet. Tesla Meg",
+      "time": "05-26 13:10"
+    },
+    {
+      "text": "Grok Build, ChatGPT Canvas, Anthropic Artifacts — three labs converging on the same bet. The friction was never model qu",
+      "time": "05-26 12:42"
+    },
     {
       "text": "engagement_analyzer scores per X 2024+ algo (reply×5 + bookmark×4). 24h+4h dual-phase. weekly retro auto-updates mandate",
       "time": "05-26 11:08"
@@ -29,18 +41,6 @@
     {
       "text": "15 days running an X automation stack from one laptop.  what actually broke. what compounded. what i'd cut.  thread on d",
       "time": "05-26 10:51"
-    },
-    {
-      "text": "preference RL approximates correct. formal proof is correct.",
-      "time": "05-26 10:40"
-    },
-    {
-      "text": "Laws against compute are laws against physics. Atoms don't lobby. The substation is the only bottleneck that matters.",
-      "time": "05-26 10:38"
-    },
-    {
-      "text": "long trips were never gated by range. attention was the cap. fsd refunds the budget.",
-      "time": "05-26 09:40"
     }
   ],
   "mandate_compliance": 1.0,
@@ -49,37 +49,37 @@
       {
         "name": "evolution_scanner",
         "ok": false,
-        "age_hours": 4.62
+        "age_hours": 6.41
       },
       {
         "name": "x_trends_scanner",
         "ok": false,
-        "age_hours": 6.08
+        "age_hours": 7.86
       },
       {
         "name": "for_you_scanner",
         "ok": false,
-        "age_hours": 4.64
+        "age_hours": 6.43
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 6.19
+        "age_hours": 7.98
       },
       {
         "name": "claude_watch",
         "ok": false,
-        "age_hours": 1.21
+        "age_hours": 3.0
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 4.91
+        "age_hours": 6.69
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 1.22
+        "age_hours": 0.78
       }
     ]
   },
