@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-27 00:15 KST",
-  "posts_today": 1,
+  "updated_at": "2026-05-27 02:15 KST",
+  "posts_today": 4,
   "recent_posts": [
+    {
+      "text": "Google's SynthID already verified 50 million pieces in Gemini. Now Pixel takes it upstream — attaching a creation trail ",
+      "time": "05-27 00:39"
+    },
+    {
+      "text": "A Western company just commissioned the first heavy rare earth processing facility in North America outside China in 202",
+      "time": "05-27 00:17"
+    },
+    {
+      "text": "When \"Is this made with AI?\" becomes a default question in Search and Chrome — Google rolled it out in 2026 — the game c",
+      "time": "05-27 00:16"
+    },
     {
       "text": "Watermarking 100 billion pieces is real scaling on detection. It still only works for models that choose to participate.",
       "time": "05-27 00:13"
@@ -29,18 +41,6 @@
     {
       "text": "Most people see Grok V9 as just \"bigger.\" The number tells a different story.  V8 ran at roughly 0.5 trillion parameters",
       "time": "05-26 19:38"
-    },
-    {
-      "text": "Most people see Grok Build as a new AI tool. The pattern is different.  Grok Build ships in 2026 behind the SuperGrok an",
-      "time": "05-26 19:21"
-    },
-    {
-      "text": "Grok Build ships behind the $30/mo SuperGrok paywall.  That is the funnel. Agent features become the reason to pay, not ",
-      "time": "05-26 19:12"
-    },
-    {
-      "text": "Olah at the Vatican is real signal. Interp is the only ethics that audits itself.",
-      "time": "05-26 19:12"
     }
   ],
   "mandate_compliance": 1.0,
@@ -54,7 +54,7 @@
       {
         "name": "x_trends_scanner",
         "ok": true,
-        "age_hours": 1.53
+        "age_hours": 3.53
       },
       {
         "name": "for_you_scanner",
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.62
+        "age_hours": 1.63
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.02
+        "age_hours": 0.03
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 0.35
+        "age_hours": 2.35
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 2.56
+        "age_hours": 1.16
       }
     ]
   },
