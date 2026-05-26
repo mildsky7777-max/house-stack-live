@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-05-26 22:15 KST",
-  "posts_today": 45,
+  "updated_at": "2026-05-27 00:15 KST",
+  "posts_today": 1,
   "recent_posts": [
+    {
+      "text": "Watermarking 100 billion pieces is real scaling on detection. It still only works for models that choose to participate.",
+      "time": "05-27 00:13"
+    },
     {
       "text": "Three things shipped this week and they look unrelated until you look at the model layer.  Tesla put Grok in the car. Sa",
       "time": "05-26 21:15"
@@ -37,10 +41,6 @@
     {
       "text": "Olah at the Vatican is real signal. Interp is the only ethics that audits itself.",
       "time": "05-26 19:12"
-    },
-    {
-      "text": "Starlink V2: 96 Gbps per satellite. V3: 1,024 Gbps.  That is a 10.7x leap in capacity per launch.  Starship was always f",
-      "time": "05-26 19:10"
     }
   ],
   "mandate_compliance": 1.0,
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.62
+        "age_hours": 2.62
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.03
+        "age_hours": 0.02
       },
       {
         "name": "bookmarks_scraper",
-        "ok": false,
-        "age_hours": 14.36
+        "ok": true,
+        "age_hours": 0.35
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.56
+        "age_hours": 2.56
       }
     ]
   },
