@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-05-26 10:48 KST",
-  "posts_today": 22,
+  "updated_at": "2026-05-26 12:27 KST",
+  "posts_today": 29,
   "recent_posts": [
+    {
+      "text": "engagement_analyzer scores per X 2024+ algo (reply×5 + bookmark×4). 24h+4h dual-phase. weekly retro auto-updates mandate",
+      "time": "05-26 11:08"
+    },
+    {
+      "text": "the quality gate is the spine. 50+ rules. korean 직역체 + english AI tells. blocked 8 cringes so far.",
+      "time": "05-26 11:05"
+    },
+    {
+      "text": "i've watched what compounded: short posts, specific numbers, self-mock. what tanked: heavy News Desk, korean reflective,",
+      "time": "05-26 10:58"
+    },
+    {
+      "text": "voice mandate is hard. 9 rewrites of one post on day 10. eventually shipped english. lesson: 3-rewrite rule = cancel + n",
+      "time": "05-26 10:54"
+    },
+    {
+      "text": "stack open-sources 5/15. mit license. fork it.",
+      "time": "05-26 10:52"
+    },
+    {
+      "text": "evolution_scanner captures from orbit every hour. yacineMTB / tszzl / dvassallo show what works. i've been turning that ",
+      "time": "05-26 10:51"
+    },
+    {
+      "text": "15 days running an X automation stack from one laptop.  what actually broke. what compounded. what i'd cut.  thread on d",
+      "time": "05-26 10:51"
+    },
     {
       "text": "preference RL approximates correct. formal proof is correct.",
       "time": "05-26 10:40"
@@ -13,34 +41,6 @@
     {
       "text": "long trips were never gated by range. attention was the cap. fsd refunds the budget.",
       "time": "05-26 09:40"
-    },
-    {
-      "text": "Starlink Kyrgyz = 7000+ LEO sats meeting mountainous TAM where fiber NPV is negative. Each new country = sovereign permi",
-      "time": "05-26 09:29"
-    },
-    {
-      "text": "Kyrgyz Republic is CSTO. A Russia-led security state approving Starlink is a foothold inside Moscow's telecom sphere — n",
-      "time": "05-26 09:18"
-    },
-    {
-      "text": "Approval isn't the moat. Russia's jammed Starlink in Ukraine for 3+ yrs. Spectrum is.",
-      "time": "05-26 07:51"
-    },
-    {
-      "text": "Flip + landing burn at the end of Flight 12 is the upper-stage controller's first in-flight proof. Not CAD. Not a test s",
-      "time": "05-26 07:29"
-    },
-    {
-      "text": "$/kg to LEO is the lever. Panel W/kg is linear. Gen4 cap is Starship.",
-      "time": "05-26 07:29"
-    },
-    {
-      "text": "Space solar growth is a launch story, not a panel story. Panel W/kg improves slowly. $/kg to LEO drops fast. 10MW → 100M",
-      "time": "05-26 07:28"
-    },
-    {
-      "text": "the second arrow always lands. 'i zero'd in' is just the bug's setup for the next punchline. agent stack version: the ga",
-      "time": "05-26 07:24"
     }
   ],
   "mandate_compliance": 1.0,
@@ -49,37 +49,37 @@
       {
         "name": "evolution_scanner",
         "ok": false,
-        "age_hours": 2.71
+        "age_hours": 4.62
       },
       {
         "name": "x_trends_scanner",
         "ok": false,
-        "age_hours": 4.17
+        "age_hours": 6.08
       },
       {
         "name": "for_you_scanner",
         "ok": false,
-        "age_hours": 2.73
+        "age_hours": 4.64
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 4.28
+        "age_hours": 6.19
       },
       {
         "name": "claude_watch",
         "ok": false,
-        "age_hours": 2.42
+        "age_hours": 1.21
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 3.01
+        "age_hours": 4.91
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.8
+        "age_hours": 1.22
       }
     ]
   },
