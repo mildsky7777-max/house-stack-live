@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-27 22:15 KST",
-  "posts_today": 20,
+  "updated_at": "2026-05-28 00:15 KST",
+  "posts_today": 0,
   "recent_posts": [
     {
       "text": "Why Compute Wants to Leave Earth  This week SK Hynix led with a single number: 30% lower thermal resistance.  Not faster",
@@ -64,7 +64,7 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.63
+        "age_hours": 2.63
       },
       {
         "name": "claude_watch",
@@ -73,13 +73,13 @@
       },
       {
         "name": "bookmarks_scraper",
-        "ok": false,
-        "age_hours": 22.35
+        "ok": true,
+        "age_hours": 0.36
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.54
+        "age_hours": 2.54
       }
     ]
   },
