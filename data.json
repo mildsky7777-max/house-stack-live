@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-05-27 08:15 KST",
-  "posts_today": 4,
+  "updated_at": "2026-05-27 10:15 KST",
+  "posts_today": 12,
   "recent_posts": [
+    {
+      "text": "stack open-sources 5/15. mit license. fork it.",
+      "time": "05-27 10:12"
+    },
+    {
+      "text": "engagement_analyzer scores per X 2024+ algo (reply×5 + bookmark×4). 24h+4h dual-phase. weekly retro auto-updates mandate",
+      "time": "05-27 10:11"
+    },
+    {
+      "text": "evolution_scanner captures from orbit every hour. yacineMTB / tszzl / dvassallo show what works. i've been turning that ",
+      "time": "05-27 10:11"
+    },
+    {
+      "text": "voice mandate is hard. 9 rewrites of one post on day 10. eventually shipped english. lesson: 3-rewrite rule = cancel + n",
+      "time": "05-27 10:11"
+    },
+    {
+      "text": "15 days running an X automation stack from one laptop.  what actually broke. what compounded. what i'd cut.  thread on d",
+      "time": "05-27 10:10"
+    },
+    {
+      "text": "In 2026, NASA quietly opened the website for humanity's first permanent base on the Moon.  Read that sentence twice.  A ",
+      "time": "05-27 09:59"
+    },
+    {
+      "text": "We are 6 years away from a permanent human outpost on the Moon.  That sentence used to be science fiction. This week NAS",
+      "time": "05-27 09:57"
+    },
+    {
+      "text": "Sandboxing isn't \"block everything.\" It's \"block by default, allow per gesture.\"  The lever: permissions widen only when",
+      "time": "05-27 08:51"
+    },
     {
       "text": "Google's SynthID already verified 50 million pieces in Gemini. Now Pixel takes it upstream — attaching a creation trail ",
       "time": "05-27 00:39"
@@ -9,38 +41,6 @@
     {
       "text": "A Western company just commissioned the first heavy rare earth processing facility in North America outside China in 202",
       "time": "05-27 00:17"
-    },
-    {
-      "text": "When \"Is this made with AI?\" becomes a default question in Search and Chrome — Google rolled it out in 2026 — the game c",
-      "time": "05-27 00:16"
-    },
-    {
-      "text": "Watermarking 100 billion pieces is real scaling on detection. It still only works for models that choose to participate.",
-      "time": "05-27 00:13"
-    },
-    {
-      "text": "Three things shipped this week and they look unrelated until you look at the model layer.  Tesla put Grok in the car. Sa",
-      "time": "05-26 21:15"
-    },
-    {
-      "text": "Electricity from any plug works the same. Coding with Claude vs Grok vs ChatGPT — very different output depending on the",
-      "time": "05-26 20:16"
-    },
-    {
-      "text": "Most high-speed rail dies at v². Rolling friction scales with weight. Air drag scales with speed squared.  Vacuum tube p",
-      "time": "05-26 20:08"
-    },
-    {
-      "text": "chat Grok lives on tokens. Tesla Grok lives on location, speed, heading.",
-      "time": "05-26 20:07"
-    },
-    {
-      "text": "Frontier SOTA shipped on scaling + RL. Tool routing isn't symbolic AI.",
-      "time": "05-26 19:43"
-    },
-    {
-      "text": "Most people see Grok V9 as just \"bigger.\" The number tells a different story.  V8 ran at roughly 0.5 trillion parameters",
-      "time": "05-26 19:38"
     }
   ],
   "mandate_compliance": 0.0,
@@ -48,38 +48,38 @@
     "scanners": [
       {
         "name": "evolution_scanner",
-        "ok": false,
-        "age_hours": 3.42
+        "ok": true,
+        "age_hours": 0.08
       },
       {
         "name": "x_trends_scanner",
-        "ok": false,
-        "age_hours": 9.59
+        "ok": true,
+        "age_hours": 1.53
       },
       {
         "name": "for_you_scanner",
-        "ok": false,
-        "age_hours": 5.16
+        "ok": true,
+        "age_hours": 0.1
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 7.69
+        "age_hours": 0.63
       },
       {
         "name": "claude_watch",
-        "ok": false,
-        "age_hours": 5.12
+        "ok": true,
+        "age_hours": 0.02
       },
       {
         "name": "bookmarks_scraper",
-        "ok": true,
-        "age_hours": 8.42
+        "ok": false,
+        "age_hours": 10.35
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 7.23
+        "age_hours": 0.96
       }
     ]
   },
