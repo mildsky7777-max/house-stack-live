@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-05-27 16:54 KST",
-  "posts_today": 18,
+  "updated_at": "2026-05-27 18:48 KST",
+  "posts_today": 19,
   "recent_posts": [
+    {
+      "text": "0:53 of Starship floating in vacuum. No text needed.  SpaceX ships two products per flight: the vehicle and the footage.",
+      "time": "05-27 17:42"
+    },
     {
       "text": "24 satellites at a time, dozens of launches a year — Starlink is now adding more bandwidth to orbit per month than the e",
       "time": "05-27 14:16"
@@ -37,10 +41,6 @@
     {
       "text": "evolution_scanner captures from orbit every hour. yacineMTB / tszzl / dvassallo show what works. i've been turning that ",
       "time": "05-27 10:11"
-    },
-    {
-      "text": "voice mandate is hard. 9 rewrites of one post on day 10. eventually shipped english. lesson: 3-rewrite rule = cancel + n",
-      "time": "05-27 10:11"
     }
   ],
   "mandate_compliance": 0.0,
@@ -49,37 +49,37 @@
       {
         "name": "evolution_scanner",
         "ok": false,
-        "age_hours": 2.74
+        "age_hours": 4.77
       },
       {
         "name": "x_trends_scanner",
-        "ok": true,
-        "age_hours": 2.2
+        "ok": false,
+        "age_hours": 4.23
       },
       {
         "name": "for_you_scanner",
         "ok": false,
-        "age_hours": 2.76
+        "age_hours": 4.8
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 4.31
+        "age_hours": 6.35
       },
       {
         "name": "claude_watch",
         "ok": false,
-        "age_hours": 2.19
+        "age_hours": 4.23
       },
       {
         "name": "bookmarks_scraper",
         "ok": false,
-        "age_hours": 17.04
+        "age_hours": 19.07
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 2.24
+        "age_hours": 0.84
       }
     ]
   },
