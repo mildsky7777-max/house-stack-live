@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28 22:15 KST",
+  "updated_at": "2026-05-29 00:15 KST",
   "posts_today": 0,
   "recent_posts": [
     {
@@ -49,7 +49,7 @@
       {
         "name": "evolution_scanner",
         "ok": true,
-        "age_hours": 0.11
+        "age_hours": 0.08
       },
       {
         "name": "x_trends_scanner",
@@ -59,27 +59,27 @@
       {
         "name": "for_you_scanner",
         "ok": true,
-        "age_hours": 0.1
+        "age_hours": 0.09
       },
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.65
+        "age_hours": 2.65
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.12
+        "age_hours": 0.04
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 6.35
+        "age_hours": 0.35
       },
       {
         "name": "x_publish",
         "ok": false,
-        "age_hours": 24.54
+        "age_hours": 26.54
       }
     ]
   },
