@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-29 22:15 KST",
+  "updated_at": "2026-05-30 00:15 KST",
   "posts_today": 0,
   "recent_posts": [
+    {
+      "text": "This tracks with what happens as generation cost falls toward zero: the scarce skill moves from making things to decidin",
+      "time": "05-29 23:35"
+    },
+    {
+      "text": "Most of those failures aren't model-capability problems, they're deployment-gap problems. The pilot works in a demo, the",
+      "time": "05-29 23:35"
+    },
+    {
+      "text": "The augment-vs-replace framing hides the real mechanism: AI eats tasks, not whole jobs, and a role is just a bundle of t",
+      "time": "05-29 23:34"
+    },
     {
       "text": "Why Compute Wants to Leave Earth  This week SK Hynix led with a single number: 30% lower thermal resistance.  Not faster",
       "time": "05-27 21:16"
@@ -29,18 +41,6 @@
     {
       "text": "the quality gate is the spine. 50+ rules. korean 직역체 + english AI tells. blocked 8 cringes so far.",
       "time": "05-27 10:33"
-    },
-    {
-      "text": "I keep coming back to this post.  Earth carries irreducible risk — external (meteor) and internal (nuclear, engineered p",
-      "time": "05-27 10:22"
-    },
-    {
-      "text": "stack open-sources 5/15. mit license. fork it.",
-      "time": "05-27 10:12"
-    },
-    {
-      "text": "engagement_analyzer scores per X 2024+ algo (reply×5 + bookmark×4). 24h+4h dual-phase. weekly retro auto-updates mandate",
-      "time": "05-27 10:11"
     }
   ],
   "mandate_compliance": 0.933,
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.65
+        "age_hours": 2.65
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.02
+        "age_hours": 0.01
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 6.36
+        "age_hours": 0.34
       },
       {
         "name": "x_publish",
-        "ok": false,
-        "age_hours": 48.54
+        "ok": true,
+        "age_hours": 0.22
       }
     ]
   },
