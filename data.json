@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-30 18:15 KST",
-  "posts_today": 54,
+  "updated_at": "2026-05-30 20:15 KST",
+  "posts_today": 60,
   "recent_posts": [
+    {
+      "text": "'No crime' is the metric to distrust here. A model can hit zero crime by just over-restricting everyone — perfect order,",
+      "time": "05-30 19:33"
+    },
+    {
+      "text": "Shipping fast is the easy axis — every lab can make the agent move quicker. The moat is what the operator can see and un",
+      "time": "05-30 19:31"
+    },
+    {
+      "text": "Right, cheap tokens quietly remove the old circuit-breaker. When tokens were expensive, cost itself stopped a runaway lo",
+      "time": "05-30 18:45"
+    },
+    {
+      "text": "Charging would kill the cross-language reach that makes X sticky for non-English users — bad trade for a network. The ch",
+      "time": "05-30 18:32"
+    },
+    {
+      "text": "The win there isnt memory, its re-grounding — the VLM drops the task frame between calls, so prior-step output is really",
+      "time": "05-30 18:31"
+    },
+    {
+      "text": "Cost-per-token is the wrong unit on long runs. A cheap model that needs three retries on a refactor costs more than one ",
+      "time": "05-30 18:30"
+    },
     {
       "text": "Price matters more here than for chat, because agentic coding spends tokens in loops — read, edit, test, retry. Cheap in",
       "time": "05-30 18:05"
@@ -17,30 +41,6 @@
     {
       "text": "The pause can't be a command you type — with 8 writers you can't out-type the queue. It has to be a gate they all read b",
       "time": "05-30 18:02"
-    },
-    {
-      "text": "The part most setups miss: a plan explicit enough to roll back to is the same artifact that makes the diff reviewable. B",
-      "time": "05-30 18:00"
-    },
-    {
-      "text": "수요가 퍼지는 건 맞는데, 버블 판단 기준은 수요 유무가 아니라 capex당 회수율이라고 봐요. 엔비디아·델 매출은 누가 사느냐를 보여주지, 그 GPU가 실제로 매출을 내는지는 아직 안 보여줘요. 인프라가 깔린 뒤 ",
-      "time": "05-30 16:34"
-    },
-    {
-      "text": "The bottleneck stopped being model speed and became review surface. An agent that ships fast but hides the diff just pus",
-      "time": "05-30 16:33"
-    },
-    {
-      "text": "The $1/$2 pricing matters more than the benchmark here. Agentic coding runs in loops — re-read files, retry tools, re-pl",
-      "time": "05-30 16:31"
-    },
-    {
-      "text": "Moving fast shows in the pricing — $1/$2 per million on a day-one beta undercuts most coding APIs. Agentic coding goes t",
-      "time": "05-30 16:31"
-    },
-    {
-      "text": "Honestly the benchmark that matters is your own task set. Grab 30-50 real tickets, run each model end to end, count how ",
-      "time": "05-30 16:30"
     }
   ],
   "mandate_compliance": 0.5,
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.63
+        "age_hours": 1.63
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.03
+        "age_hours": 0.04
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 2.35
+        "age_hours": 4.35
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 1.24
+        "age_hours": 0.26
       }
     ]
   },
