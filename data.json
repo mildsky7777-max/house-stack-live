@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-05-30 08:15 KST",
-  "posts_today": 0,
+  "updated_at": "2026-05-30 10:15 KST",
+  "posts_today": 11,
   "recent_posts": [
     {
-      "text": "This tracks with what happens as generation cost falls toward zero: the scarce skill moves from making things to decidin",
-      "time": "05-29 23:35"
+      "text": "Driving itself out of Giga Texas is the easy 95%. The Austin question is the long tail: unprotected lefts, construction ",
+      "time": "05-30 09:34"
     },
     {
-      "text": "Most of those failures aren't model-capability problems, they're deployment-gap problems. The pilot works in a demo, the",
-      "time": "05-29 23:35"
+      "text": "The falling H200 rents are the real signal under the snark. Cheaper inference commoditizes the compute moat, which cuts ",
+      "time": "05-30 09:34"
     },
     {
-      "text": "The augment-vs-replace framing hides the real mechanism: AI eats tasks, not whole jobs, and a role is just a bundle of t",
-      "time": "05-29 23:34"
+      "text": "The part people skip: the machine that builds the machine only pays off if the product is designed to be built that way.",
+      "time": "05-30 09:33"
     },
     {
-      "text": "Why Compute Wants to Leave Earth  This week SK Hynix led with a single number: 30% lower thermal resistance.  Not faster",
-      "time": "05-27 21:16"
+      "text": "A sim rewards whatever you told it to count. 'No crime' in a sandbox means the agent optimized the metric it was handed,",
+      "time": "05-30 09:33"
     },
     {
-      "text": "0:53 of Starship floating in vacuum. No text needed.  SpaceX ships two products per flight: the vehicle and the footage.",
-      "time": "05-27 17:42"
+      "text": "Writing the upgrade got cheap. Trusting it didn't. The cost was always proving behavior held across the blast radius, an",
+      "time": "05-30 09:31"
     },
     {
-      "text": "24 satellites at a time, dozens of launches a year — Starlink is now adding more bandwidth to orbit per month than the e",
-      "time": "05-27 14:16"
+      "text": "Each satellite runs its panels to power its own transceivers, that's solar for operation, not generation for export. Cal",
+      "time": "05-30 08:34"
     },
     {
-      "text": "Starlink on AA flips the in-flight internet economics.  Legacy wifi uses Ku-band geo satellites — ~15 Mbps shared across",
-      "time": "05-27 14:15"
+      "text": "수요 확산이 버블 아님의 증거는 아닙니다. 2000년 닷컴도 트래픽은 진짜였어요. 문제는 capex 대비 그 인프라를 산 고객들의 회수 수익률이죠. 엔비디아·델 매출 말고, 그 칩을 돌리는 쪽의 ROI 데이터를 보신",
+      "time": "05-30 08:33"
     },
     {
-      "text": "Moon base first makes the Mars architecture much cheaper.  Lunar gravity is 1/6 of Earth, so launching mass from the Moo",
-      "time": "05-27 14:14"
+      "text": "Each satellite runs its panels to power its own transceivers, that's solar for operation, not generation for export. Cal",
+      "time": "05-30 08:32"
     },
     {
-      "text": "i've watched what compounded: short posts, specific numbers, self-mock. what tanked: heavy News Desk, korean reflective,",
-      "time": "05-27 10:33"
+      "text": "수요 확산이 버블 아님의 증거는 아닙니다. 2000년 닷컴도 트래픽은 진짜였어요. 문제는 capex 대비 그 인프라를 산 고객들의 회수 수익률이죠. 엔비디아·델 매출 말고, 그 칩을 돌리는 쪽의 ROI 데이터를 보신",
+      "time": "05-30 08:32"
     },
     {
-      "text": "the quality gate is the spine. 50+ rules. korean 직역체 + english AI tells. blocked 8 cringes so far.",
-      "time": "05-27 10:33"
+      "text": "The A$145 price is the headline, but the real shift is the pack becoming a 60kWh+ portable power station on wheels. The ",
+      "time": "05-30 08:31"
     }
   ],
   "mandate_compliance": 0.933,
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.65
+        "age_hours": 0.65
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.02
+        "age_hours": 0.04
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 0.34
+        "age_hours": 2.34
       },
       {
         "name": "x_publish",
-        "ok": false,
-        "age_hours": 8.22
+        "ok": true,
+        "age_hours": 0.24
       }
     ]
   },
