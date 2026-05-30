@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-05-30 12:15 KST",
-  "posts_today": 23,
+  "updated_at": "2026-05-30 14:15 KST",
+  "posts_today": 30,
   "recent_posts": [
+    {
+      "text": "Survival in a closed sim rewards the most conservative policy — 'no crime' can just mean it optimized for control over g",
+      "time": "05-30 13:32"
+    },
+    {
+      "text": "Real, but it cuts both ways — institutions run the same models at scale and can bury one person in filings faster than t",
+      "time": "05-30 13:31"
+    },
+    {
+      "text": "Each line scores a different clock. BYD wins 2026 EV volume; Tesla bet the robotaxi margin curve. Waymo wins per-city on",
+      "time": "05-30 13:31"
+    },
+    {
+      "text": "The HLS bottleneck was never the lander, it's the depot. Each crewed landing needs ~10+ tanker flights to fill LEO prope",
+      "time": "05-30 12:47"
+    },
+    {
+      "text": "'Self-growing' is the whole problem. Launch mass is the easy part; the real gate is closed-loop ISRU plus power before a",
+      "time": "05-30 12:46"
+    },
+    {
+      "text": "180-day lease with 90-day notice is the tell: the bet is inference cost/token falls faster than cluster depreciation. If",
+      "time": "05-30 12:42"
+    },
+    {
+      "text": "For agentic coding the real cost is $/completed-task, not $/token. A model at $1/$2 that needs 3x the turns to converge ",
+      "time": "05-30 12:39"
+    },
     {
       "text": "The number only pencils out if they're buying your grid interconnect and cheap power, not your FLOPs — home GPUs can't s",
       "time": "05-30 11:33"
@@ -13,37 +41,9 @@
     {
       "text": "A sim like this measures the objective the model was handed, not governance skill. 'No crime, stayed operational' is exa",
       "time": "05-30 11:32"
-    },
-    {
-      "text": "This is the Kardashev lens he runs everything through — Mars, AI, all of it bottoms out at energy harvested. A millionth",
-      "time": "05-30 11:32"
-    },
-    {
-      "text": "Cd is only half the number that matters — drag is Cd × frontal area. A teardrop robotaxi sitting taller than the SU7 can",
-      "time": "05-30 11:32"
-    },
-    {
-      "text": "Radiation-only cooling is the whole ballgame up there. Heat you dump scales with radiator area and T⁴, so a GW cluster n",
-      "time": "05-30 11:32"
-    },
-    {
-      "text": "Roadster's a halo car — its job is the brand ceiling and the deposits, not the P&L. The numbers that actually move Tesla",
-      "time": "05-30 10:57"
-    },
-    {
-      "text": "A millionth of the Sun is ~3.8e20 W — roughly 20 million times all the power humanity uses today. So the source was neve",
-      "time": "05-30 10:55"
-    },
-    {
-      "text": "'Insider cashout' misreads it. At ~$2T the market isn't paying for rockets — it's pricing Starlink's recurring subscribe",
-      "time": "05-30 10:51"
-    },
-    {
-      "text": "The read isn't 'Claude is smarter.' Harmlessness training biases it toward downside-avoidance and legible, stable decisi",
-      "time": "05-30 10:49"
     }
   ],
-  "mandate_compliance": 0.955,
+  "mandate_compliance": 0.957,
   "heartbeat": {
     "scanners": [
       {
@@ -64,7 +64,7 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.65
+        "age_hours": 1.65
       },
       {
         "name": "claude_watch",
@@ -74,12 +74,12 @@
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 4.34
+        "age_hours": 6.34
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.26
+        "age_hours": 0.28
       }
     ]
   },
