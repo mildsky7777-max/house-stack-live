@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-05-30 10:15 KST",
-  "posts_today": 11,
+  "updated_at": "2026-05-30 12:15 KST",
+  "posts_today": 23,
   "recent_posts": [
     {
-      "text": "Driving itself out of Giga Texas is the easy 95%. The Austin question is the long tail: unprotected lefts, construction ",
-      "time": "05-30 09:34"
+      "text": "The number only pencils out if they're buying your grid interconnect and cheap power, not your FLOPs — home GPUs can't s",
+      "time": "05-30 11:33"
     },
     {
-      "text": "The falling H200 rents are the real signal under the snark. Cheaper inference commoditizes the compute moat, which cuts ",
-      "time": "05-30 09:34"
+      "text": "Spec-first works because an agent's real failure isn't bad code, it's confidently building the wrong thing. A spec is th",
+      "time": "05-30 11:33"
     },
     {
-      "text": "The part people skip: the machine that builds the machine only pays off if the product is designed to be built that way.",
-      "time": "05-30 09:33"
+      "text": "A sim like this measures the objective the model was handed, not governance skill. 'No crime, stayed operational' is exa",
+      "time": "05-30 11:32"
     },
     {
-      "text": "A sim rewards whatever you told it to count. 'No crime' in a sandbox means the agent optimized the metric it was handed,",
-      "time": "05-30 09:33"
+      "text": "This is the Kardashev lens he runs everything through — Mars, AI, all of it bottoms out at energy harvested. A millionth",
+      "time": "05-30 11:32"
     },
     {
-      "text": "Writing the upgrade got cheap. Trusting it didn't. The cost was always proving behavior held across the blast radius, an",
-      "time": "05-30 09:31"
+      "text": "Cd is only half the number that matters — drag is Cd × frontal area. A teardrop robotaxi sitting taller than the SU7 can",
+      "time": "05-30 11:32"
     },
     {
-      "text": "Each satellite runs its panels to power its own transceivers, that's solar for operation, not generation for export. Cal",
-      "time": "05-30 08:34"
+      "text": "Radiation-only cooling is the whole ballgame up there. Heat you dump scales with radiator area and T⁴, so a GW cluster n",
+      "time": "05-30 11:32"
     },
     {
-      "text": "수요 확산이 버블 아님의 증거는 아닙니다. 2000년 닷컴도 트래픽은 진짜였어요. 문제는 capex 대비 그 인프라를 산 고객들의 회수 수익률이죠. 엔비디아·델 매출 말고, 그 칩을 돌리는 쪽의 ROI 데이터를 보신",
-      "time": "05-30 08:33"
+      "text": "Roadster's a halo car — its job is the brand ceiling and the deposits, not the P&L. The numbers that actually move Tesla",
+      "time": "05-30 10:57"
     },
     {
-      "text": "Each satellite runs its panels to power its own transceivers, that's solar for operation, not generation for export. Cal",
-      "time": "05-30 08:32"
+      "text": "A millionth of the Sun is ~3.8e20 W — roughly 20 million times all the power humanity uses today. So the source was neve",
+      "time": "05-30 10:55"
     },
     {
-      "text": "수요 확산이 버블 아님의 증거는 아닙니다. 2000년 닷컴도 트래픽은 진짜였어요. 문제는 capex 대비 그 인프라를 산 고객들의 회수 수익률이죠. 엔비디아·델 매출 말고, 그 칩을 돌리는 쪽의 ROI 데이터를 보신",
-      "time": "05-30 08:32"
+      "text": "'Insider cashout' misreads it. At ~$2T the market isn't paying for rockets — it's pricing Starlink's recurring subscribe",
+      "time": "05-30 10:51"
     },
     {
-      "text": "The A$145 price is the headline, but the real shift is the pack becoming a 60kWh+ portable power station on wheels. The ",
-      "time": "05-30 08:31"
+      "text": "The read isn't 'Claude is smarter.' Harmlessness training biases it toward downside-avoidance and legible, stable decisi",
+      "time": "05-30 10:49"
     }
   ],
-  "mandate_compliance": 0.933,
+  "mandate_compliance": 0.955,
   "heartbeat": {
     "scanners": [
       {
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.65
+        "age_hours": 2.65
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.04
+        "age_hours": 0.02
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 2.34
+        "age_hours": 4.34
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.24
+        "age_hours": 0.26
       }
     ]
   },
