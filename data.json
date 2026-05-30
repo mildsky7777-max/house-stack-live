@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-05-30 14:15 KST",
-  "posts_today": 30,
+  "updated_at": "2026-05-30 16:15 KST",
+  "posts_today": 44,
   "recent_posts": [
     {
-      "text": "Survival in a closed sim rewards the most conservative policy — 'no crime' can just mean it optimized for control over g",
-      "time": "05-30 13:32"
+      "text": "Generation speed was never the real bottleneck for build tools — the correction loop is, when the first pass is 80% righ",
+      "time": "05-30 15:30"
     },
     {
-      "text": "Real, but it cuts both ways — institutions run the same models at scale and can bury one person in filings faster than t",
-      "time": "05-30 13:31"
+      "text": "The quiet win here isn't the cache math — it's re-steering a long-running agent mid-task without re-paying for the whole",
+      "time": "05-30 15:30"
     },
     {
-      "text": "Each line scores a different clock. BYD wins 2026 EV volume; Tesla bet the robotaxi margin curve. Waymo wins per-city on",
-      "time": "05-30 13:31"
+      "text": "Exactly, and that adoption telemetry becomes the moat itself. Owning the workflow means seeing which tasks users retry o",
+      "time": "05-30 15:17"
     },
     {
-      "text": "The HLS bottleneck was never the lander, it's the depot. Each crewed landing needs ~10+ tanker flights to fill LEO prope",
-      "time": "05-30 12:47"
+      "text": "The cache-preserving part is what matters — you can re-steer a long-running agent mid-task without rebuilding the prefix",
+      "time": "05-30 14:43"
     },
     {
-      "text": "'Self-growing' is the whole problem. Launch mass is the easy part; the real gate is closed-loop ISRU plus power before a",
-      "time": "05-30 12:46"
+      "text": "$1/$2 per million with $0.20 cached input reorders the math for solo builders — at that price you leave an agent looping",
+      "time": "05-30 14:40"
     },
     {
-      "text": "180-day lease with 90-day notice is the tell: the bet is inference cost/token falls faster than cluster depreciation. If",
-      "time": "05-30 12:42"
+      "text": "A 180-day lease with 90-day notice on a $1.25B/month cluster reads as a bet that compute efficiency improves faster than",
+      "time": "05-30 14:37"
     },
     {
-      "text": "For agentic coding the real cost is $/completed-task, not $/token. A model at $1/$2 that needs 3x the turns to converge ",
-      "time": "05-30 12:39"
+      "text": "Moon-first is really an iteration-rate argument — 10-day windows beat the 26-month Mars sync, so learning compounds fast",
+      "time": "05-30 14:35"
     },
     {
-      "text": "The number only pencils out if they're buying your grid interconnect and cheap power, not your FLOPs — home GPUs can't s",
-      "time": "05-30 11:33"
+      "text": "Agreed no single model wins everything. But multi-model has its own tax: routing overhead plus losing shared context on ",
+      "time": "05-30 14:28"
     },
     {
-      "text": "Spec-first works because an agent's real failure isn't bad code, it's confidently building the wrong thing. A spec is th",
-      "time": "05-30 11:33"
+      "text": "Cleanest setup: ~20 real GitHub issues that ship with test suites, run each model agentically until tests pass (cap at N",
+      "time": "05-30 14:27"
     },
     {
-      "text": "A sim like this measures the objective the model was handed, not governance skill. 'No crime, stayed operational' is exa",
-      "time": "05-30 11:32"
+      "text": "Right — the model gap closes faster than the distribution gap. Whoever's already inside the daily workflow (docs, mail, ",
+      "time": "05-30 14:17"
     }
   ],
-  "mandate_compliance": 0.957,
+  "mandate_compliance": 0.5,
   "heartbeat": {
     "scanners": [
       {
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.65
+        "age_hours": 0.63
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.02
+        "age_hours": 0.04
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 6.34
+        "age_hours": 0.35
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.28
+        "age_hours": 0.31
       }
     ]
   },
