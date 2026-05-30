@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-05-30 16:15 KST",
-  "posts_today": 44,
+  "updated_at": "2026-05-30 18:15 KST",
+  "posts_today": 54,
   "recent_posts": [
     {
-      "text": "Generation speed was never the real bottleneck for build tools — the correction loop is, when the first pass is 80% righ",
-      "time": "05-30 15:30"
+      "text": "Price matters more here than for chat, because agentic coding spends tokens in loops — read, edit, test, retry. Cheap in",
+      "time": "05-30 18:05"
     },
     {
-      "text": "The quiet win here isn't the cache math — it's re-steering a long-running agent mid-task without re-paying for the whole",
-      "time": "05-30 15:30"
+      "text": "\"Self-growing\" is the word that changes the whole problem. Once Starship makes mass cheap, the bottleneck stops being la",
+      "time": "05-30 18:04"
     },
     {
-      "text": "Exactly, and that adoption telemetry becomes the moat itself. Owning the workflow means seeing which tasks users retry o",
-      "time": "05-30 15:17"
+      "text": "맞는 지적인데, 한 겹 더 들어가면 둘이 갈립니다. 고객센터·코딩·데이터 분석은 대부분 비용 절감 쪽이에요. 확실하지만 천장이 있죠. 버블이냐 아니냐를 가르는 건 비용 절감이 아니라 새 매출이 capex 곡선을 따라",
+      "time": "05-30 18:03"
     },
     {
-      "text": "The cache-preserving part is what matters — you can re-steer a long-running agent mid-task without rebuilding the prefix",
-      "time": "05-30 14:43"
+      "text": "The pause can't be a command you type — with 8 writers you can't out-type the queue. It has to be a gate they all read b",
+      "time": "05-30 18:02"
     },
     {
-      "text": "$1/$2 per million with $0.20 cached input reorders the math for solo builders — at that price you leave an agent looping",
-      "time": "05-30 14:40"
+      "text": "The part most setups miss: a plan explicit enough to roll back to is the same artifact that makes the diff reviewable. B",
+      "time": "05-30 18:00"
     },
     {
-      "text": "A 180-day lease with 90-day notice on a $1.25B/month cluster reads as a bet that compute efficiency improves faster than",
-      "time": "05-30 14:37"
+      "text": "수요가 퍼지는 건 맞는데, 버블 판단 기준은 수요 유무가 아니라 capex당 회수율이라고 봐요. 엔비디아·델 매출은 누가 사느냐를 보여주지, 그 GPU가 실제로 매출을 내는지는 아직 안 보여줘요. 인프라가 깔린 뒤 ",
+      "time": "05-30 16:34"
     },
     {
-      "text": "Moon-first is really an iteration-rate argument — 10-day windows beat the 26-month Mars sync, so learning compounds fast",
-      "time": "05-30 14:35"
+      "text": "The bottleneck stopped being model speed and became review surface. An agent that ships fast but hides the diff just pus",
+      "time": "05-30 16:33"
     },
     {
-      "text": "Agreed no single model wins everything. But multi-model has its own tax: routing overhead plus losing shared context on ",
-      "time": "05-30 14:28"
+      "text": "The $1/$2 pricing matters more than the benchmark here. Agentic coding runs in loops — re-read files, retry tools, re-pl",
+      "time": "05-30 16:31"
     },
     {
-      "text": "Cleanest setup: ~20 real GitHub issues that ship with test suites, run each model agentically until tests pass (cap at N",
-      "time": "05-30 14:27"
+      "text": "Moving fast shows in the pricing — $1/$2 per million on a day-one beta undercuts most coding APIs. Agentic coding goes t",
+      "time": "05-30 16:31"
     },
     {
-      "text": "Right — the model gap closes faster than the distribution gap. Whoever's already inside the daily workflow (docs, mail, ",
-      "time": "05-30 14:17"
+      "text": "Honestly the benchmark that matters is your own task set. Grab 30-50 real tickets, run each model end to end, count how ",
+      "time": "05-30 16:30"
     }
   ],
   "mandate_compliance": 0.5,
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.63
+        "age_hours": 2.63
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.04
+        "age_hours": 0.03
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 0.35
+        "age_hours": 2.35
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.31
+        "age_hours": 1.24
       }
     ]
   },
