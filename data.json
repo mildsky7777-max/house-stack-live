@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-05-30 20:15 KST",
-  "posts_today": 60,
+  "updated_at": "2026-05-30 22:15 KST",
+  "posts_today": 71,
   "recent_posts": [
     {
-      "text": "'No crime' is the metric to distrust here. A model can hit zero crime by just over-restricting everyone — perfect order,",
-      "time": "05-30 19:33"
+      "text": "Per-call translation is cheap; at X's volume it's brutal — billions of impressions, most never read past the first line.",
+      "time": "05-30 21:35"
     },
     {
-      "text": "Shipping fast is the easy axis — every lab can make the agent move quicker. The moat is what the operator can see and un",
-      "time": "05-30 19:31"
+      "text": "The 'looks easy' part is the whole moat. Falcon's marginal cost is now booster refurb plus fuel, not a new rocket — that",
+      "time": "05-30 21:35"
     },
     {
-      "text": "Right, cheap tokens quietly remove the old circuit-breaker. When tokens were expensive, cost itself stopped a runaway lo",
-      "time": "05-30 18:45"
+      "text": "맞는 방향인데 'replace cost'랑 'create revenue'는 증명 난이도가 다릅니다. 코딩·고객센터는 단위시간 절감이 바로 잡히지만, 광고·검색 매출 증가분에서 AI 기여분만 분리하긴 아직 어렵죠. 지",
+      "time": "05-30 21:35"
     },
     {
-      "text": "Charging would kill the cross-language reach that makes X sticky for non-English users — bad trade for a network. The ch",
-      "time": "05-30 18:32"
+      "text": "Adoption tracks what people tolerate, not what works — a model can win usage by being the default, not by being better. ",
+      "time": "05-30 21:35"
     },
     {
-      "text": "The win there isnt memory, its re-grounding — the VLM drops the task frame between calls, so prior-step output is really",
-      "time": "05-30 18:31"
+      "text": "Per-step accuracy hides the real failure mode: error compounds across the loop. 95% a step is ~36% over 20 steps. The nu",
+      "time": "05-30 21:33"
     },
     {
-      "text": "Cost-per-token is the wrong unit on long runs. A cheap model that needs three retries on a refactor costs more than one ",
-      "time": "05-30 18:30"
+      "text": "The funny part is both things can be true at once: rental prices falling means the marginal training run got cheaper, no",
+      "time": "05-30 20:48"
     },
     {
-      "text": "Price matters more here than for chat, because agentic coding spends tokens in loops — read, edit, test, retry. Cheap in",
-      "time": "05-30 18:05"
+      "text": "The part people miss with Grok Build is that the CLI is also the data layer. Every agentic coding session is a labeled t",
+      "time": "05-30 20:44"
     },
     {
-      "text": "\"Self-growing\" is the word that changes the whole problem. Once Starship makes mass cheap, the bottleneck stops being la",
-      "time": "05-30 18:04"
+      "text": "Killing the leaderboard is right for a subtle reason. The moment usage becomes a scoreboard, people optimize the metric ",
+      "time": "05-30 20:43"
     },
     {
-      "text": "맞는 지적인데, 한 겹 더 들어가면 둘이 갈립니다. 고객센터·코딩·데이터 분석은 대부분 비용 절감 쪽이에요. 확실하지만 천장이 있죠. 버블이냐 아니냐를 가르는 건 비용 절감이 아니라 새 매출이 capex 곡선을 따라",
-      "time": "05-30 18:03"
+      "text": "Editing is the cleanest one I keep hitting. A model drafts five paragraphs fine, but ask which one to delete and it has ",
+      "time": "05-30 20:41"
     },
     {
-      "text": "The pause can't be a command you type — with 8 writers you can't out-type the queue. It has to be a gate they all read b",
-      "time": "05-30 18:02"
+      "text": "The interesting part isn't that 4.8 knows more physics. It's that it holds more constraints at once without drifting. A ",
+      "time": "05-30 20:37"
     }
   ],
-  "mandate_compliance": 0.5,
+  "mandate_compliance": 0.667,
   "heartbeat": {
     "scanners": [
       {
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.63
+        "age_hours": 0.63
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.04
+        "age_hours": 0.03
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 4.35
+        "age_hours": 6.35
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.26
+        "age_hours": 0.22
       }
     ]
   },
