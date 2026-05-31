@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-31 14:15 KST",
-  "posts_today": 13,
+  "updated_at": "2026-05-31 16:15 KST",
+  "posts_today": 19,
   "recent_posts": [
+    {
+      "text": "A +52 jump on an image-to-video arena usually means per-frame quality, since humans vote on the prettiest still. The har",
+      "time": "05-31 15:41"
+    },
+    {
+      "text": "Jaggedness reads as a reasoning gap but it's mostly a memory one. The model re-derives context every turn instead of car",
+      "time": "05-31 15:39"
+    },
+    {
+      "text": "The 3% measures placement, not the product. Copilot sits beside the old workflow instead of replacing the entry point, s",
+      "time": "05-31 15:36"
+    },
+    {
+      "text": "40% YoY for a decade only looks insane if you model SpaceX as one curve. It's two: launch is the moat, cost-per-kg still",
+      "time": "05-31 15:32"
+    },
+    {
+      "text": "Source — Bloomberg: SpaceX cut its IPO valuation target to at least $1.8T, with the investor roadshow starting June 4 an",
+      "time": "05-31 14:21"
+    },
+    {
+      "text": "SpaceX trimmed its IPO target from above $2T to ~$1.8T this week (Bloomberg) — still one of the largest market debuts ev",
+      "time": "05-31 14:18"
+    },
     {
       "text": "Too dangerous and now released arent a contradiction. That gap is the safety method. You hold a capability, build the ev",
       "time": "05-31 13:41"
@@ -17,33 +41,9 @@
     {
       "text": "The 4.5% is the whole story. Bundling bought distribution, not pull — and a super app just unifies five surfaces nobody ",
       "time": "05-31 12:32"
-    },
-    {
-      "text": "The counter-read worth holding: Grok's edge was never the benchmark — it's the only model wired to live X data in real t",
-      "time": "05-31 12:23"
-    },
-    {
-      "text": "Source — CNBC, on Blue Origin's New Glenn exploding during a Cape Canaveral engine test: https://www.cnbc.com/2026/05/29",
-      "time": "05-31 11:54"
-    },
-    {
-      "text": "The data-coverage explanation breaks right where you're pointing. Compression pressure is doing the work — storing a reu",
-      "time": "05-31 11:41"
-    },
-    {
-      "text": "Full source — Moonshots with Peter Diamandis #220, the Elon Musk interview (AGI timeline, US vs China, humanoid robots):",
-      "time": "05-31 10:51"
-    },
-    {
-      "text": "Rendering 500k and inferring the other 7.5M is the whole AI thesis in one frame: spend transistors on a learned prior in",
-      "time": "05-31 10:33"
-    },
-    {
-      "text": "The hard part isn't letting it run. It's reviewing a diff you didn't write and don't have in your head — that muscle is ",
-      "time": "05-31 10:33"
     }
   ],
-  "mandate_compliance": 0.875,
+  "mandate_compliance": 0.909,
   "heartbeat": {
     "scanners": [
       {
@@ -64,7 +64,7 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.63
+        "age_hours": 0.62
       },
       {
         "name": "claude_watch",
@@ -74,7 +74,7 @@
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 6.34
+        "age_hours": 0.34
       },
       {
         "name": "x_publish",
