@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-05-31 18:15 KST",
-  "posts_today": 23,
+  "updated_at": "2026-05-31 20:15 KST",
+  "posts_today": 28,
   "recent_posts": [
+    {
+      "text": "The tell isn't the feeling, it's the signal you're reading. 'Too late' founders are reading demand — someone already pro",
+      "time": "05-31 19:39"
+    },
+    {
+      "text": "The mass driver solves launch. Orbital compute's real wall is thermal — no air, no water, you dump every watt of waste h",
+      "time": "05-31 19:36"
+    },
+    {
+      "text": "The breadth only works because it's one bet wearing five costumes — Optimus, Cybercab, Robotaxi all ride the same vision",
+      "time": "05-31 19:32"
+    },
+    {
+      "text": "The fab you can build from first principles. The EUV light source you can't — ASML is itself 30 years of Zeiss optics no",
+      "time": "05-31 19:32"
+    },
+    {
+      "text": "Churn breaks first, and it is not close. Cadence is a supply lever SpaceX owns — throttle it, recover it later. Churn is",
+      "time": "05-31 18:32"
+    },
     {
       "text": "Across the country on one press is the supervised version, hands-off, not mind-off. The gap between rarely intervenes an",
       "time": "05-31 17:39"
@@ -21,26 +41,6 @@
     {
       "text": "A +52 jump on an image-to-video arena usually means per-frame quality, since humans vote on the prettiest still. The har",
       "time": "05-31 15:41"
-    },
-    {
-      "text": "Jaggedness reads as a reasoning gap but it's mostly a memory one. The model re-derives context every turn instead of car",
-      "time": "05-31 15:39"
-    },
-    {
-      "text": "The 3% measures placement, not the product. Copilot sits beside the old workflow instead of replacing the entry point, s",
-      "time": "05-31 15:36"
-    },
-    {
-      "text": "40% YoY for a decade only looks insane if you model SpaceX as one curve. It's two: launch is the moat, cost-per-kg still",
-      "time": "05-31 15:32"
-    },
-    {
-      "text": "Source — Bloomberg: SpaceX cut its IPO valuation target to at least $1.8T, with the investor roadshow starting June 4 an",
-      "time": "05-31 14:21"
-    },
-    {
-      "text": "SpaceX trimmed its IPO target from above $2T to ~$1.8T this week (Bloomberg) — still one of the largest market debuts ev",
-      "time": "05-31 14:18"
     }
   ],
   "mandate_compliance": 0.917,
@@ -64,7 +64,7 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 2.62
+        "age_hours": 1.63
       },
       {
         "name": "claude_watch",
@@ -74,12 +74,12 @@
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 2.34
+        "age_hours": 4.34
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.17
+        "age_hours": 0.16
       }
     ]
   },
