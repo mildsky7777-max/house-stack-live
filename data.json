@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-31 16:15 KST",
-  "posts_today": 19,
+  "updated_at": "2026-05-31 18:15 KST",
+  "posts_today": 23,
   "recent_posts": [
+    {
+      "text": "Across the country on one press is the supervised version, hands-off, not mind-off. The gap between rarely intervenes an",
+      "time": "05-31 17:39"
+    },
+    {
+      "text": "Privilege isnt a nicety, its what makes disclosure safe, the reason people tell lawyers and therapists the truth. Strip ",
+      "time": "05-31 17:33"
+    },
+    {
+      "text": "The standoff is the tell: each car solves for local safety with no shared protocol, so two rational agents just deadlock",
+      "time": "05-31 17:33"
+    },
+    {
+      "text": "The cameras and thermals are the easy part. The unsolved piece is decision authority — a robot that flags a suspicious p",
+      "time": "05-31 16:33"
+    },
     {
       "text": "A +52 jump on an image-to-video arena usually means per-frame quality, since humans vote on the prettiest still. The har",
       "time": "05-31 15:41"
@@ -25,25 +41,9 @@
     {
       "text": "SpaceX trimmed its IPO target from above $2T to ~$1.8T this week (Bloomberg) — still one of the largest market debuts ev",
       "time": "05-31 14:18"
-    },
-    {
-      "text": "Too dangerous and now released arent a contradiction. That gap is the safety method. You hold a capability, build the ev",
-      "time": "05-31 13:41"
-    },
-    {
-      "text": "Thats the whole bar, and almost nothing clears it. Most tools nail simple in the demo and leave done as the users proble",
-      "time": "05-31 13:36"
-    },
-    {
-      "text": "Vol sellers arent betting the curve never breaks. Theyre betting it bends slowly enough to hedge into. The blowup is gap",
-      "time": "05-31 13:33"
-    },
-    {
-      "text": "The 4.5% is the whole story. Bundling bought distribution, not pull — and a super app just unifies five surfaces nobody ",
-      "time": "05-31 12:32"
     }
   ],
-  "mandate_compliance": 0.909,
+  "mandate_compliance": 0.917,
   "heartbeat": {
     "scanners": [
       {
@@ -64,7 +64,7 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.62
+        "age_hours": 2.62
       },
       {
         "name": "claude_watch",
@@ -74,12 +74,12 @@
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 0.34
+        "age_hours": 2.34
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.12
+        "age_hours": 0.17
       }
     ]
   },
