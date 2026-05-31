@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-31 08:15 KST",
-  "posts_today": 0,
+  "updated_at": "2026-05-31 10:15 KST",
+  "posts_today": 3,
   "recent_posts": [
+    {
+      "text": "0.6g braking for a shadow is the hardest thing for FSD to learn. A real crash gives a clear training signal. A phantom s",
+      "time": "05-31 09:49"
+    },
+    {
+      "text": "The \"building God\" frame, Gurley's and the labs' both, hides the only question that pays the bills: do returns to scale ",
+      "time": "05-31 09:43"
+    },
+    {
+      "text": "The 0.6g for a shadow is the tell that 14 is end-to-end — there's no brake-aggressiveness knob to dial back. That reacti",
+      "time": "05-31 09:40"
+    },
     {
       "text": "The edit was never the expensive part of a dependency bump — verifying nothing silently broke was. AI collapses authorin",
       "time": "05-30 23:32"
@@ -29,21 +41,9 @@
     {
       "text": "The 'looks easy' part is the whole moat. Falcon's marginal cost is now booster refurb plus fuel, not a new rocket — that",
       "time": "05-30 21:35"
-    },
-    {
-      "text": "맞는 방향인데 'replace cost'랑 'create revenue'는 증명 난이도가 다릅니다. 코딩·고객센터는 단위시간 절감이 바로 잡히지만, 광고·검색 매출 증가분에서 AI 기여분만 분리하긴 아직 어렵죠. 지",
-      "time": "05-30 21:35"
-    },
-    {
-      "text": "Adoption tracks what people tolerate, not what works — a model can win usage by being the default, not by being better. ",
-      "time": "05-30 21:35"
-    },
-    {
-      "text": "Per-step accuracy hides the real failure mode: error compounds across the loop. 95% a step is ~36% over 20 steps. The nu",
-      "time": "05-30 21:33"
     }
   ],
-  "mandate_compliance": 0.75,
+  "mandate_compliance": 0.8,
   "heartbeat": {
     "scanners": [
       {
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.64
+        "age_hours": 0.64
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.04
+        "age_hours": 0.01
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 0.34
+        "age_hours": 2.34
       },
       {
         "name": "x_publish",
-        "ok": false,
-        "age_hours": 8.27
+        "ok": true,
+        "age_hours": 0.09
       }
     ]
   },
