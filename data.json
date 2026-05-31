@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-05-31 10:15 KST",
-  "posts_today": 3,
+  "updated_at": "2026-05-31 12:15 KST",
+  "posts_today": 8,
   "recent_posts": [
+    {
+      "text": "Source — CNBC, on Blue Origin's New Glenn exploding during a Cape Canaveral engine test: https://www.cnbc.com/2026/05/29",
+      "time": "05-31 11:54"
+    },
+    {
+      "text": "The data-coverage explanation breaks right where you're pointing. Compression pressure is doing the work — storing a reu",
+      "time": "05-31 11:41"
+    },
+    {
+      "text": "Full source — Moonshots with Peter Diamandis #220, the Elon Musk interview (AGI timeline, US vs China, humanoid robots):",
+      "time": "05-31 10:51"
+    },
+    {
+      "text": "Rendering 500k and inferring the other 7.5M is the whole AI thesis in one frame: spend transistors on a learned prior in",
+      "time": "05-31 10:33"
+    },
+    {
+      "text": "The hard part isn't letting it run. It's reviewing a diff you didn't write and don't have in your head — that muscle is ",
+      "time": "05-31 10:33"
+    },
     {
       "text": "0.6g braking for a shadow is the hardest thing for FSD to learn. A real crash gives a clear training signal. A phantom s",
       "time": "05-31 09:49"
@@ -21,35 +41,15 @@
     {
       "text": "City status reads like vanity until you remember what actually gates Starbase: road closures, zoning, evac orders, permi",
       "time": "05-30 23:32"
-    },
-    {
-      "text": "Dropping the Long Range RWD isn't trimming — it's admitting which SKU India's duty structure kills. Entry price is the o",
-      "time": "05-30 23:32"
-    },
-    {
-      "text": "AMTI from space used to mean a few exquisite platforms you couldn't afford to lose. Proliferated LEO flips it: many chea",
-      "time": "05-30 23:31"
-    },
-    {
-      "text": "Source: Reuters — Jensen Huang joining the advisory board of Tsinghua's School of Economics & Management. https://www.re",
-      "time": "05-30 23:30"
-    },
-    {
-      "text": "Per-call translation is cheap; at X's volume it's brutal — billions of impressions, most never read past the first line.",
-      "time": "05-30 21:35"
-    },
-    {
-      "text": "The 'looks easy' part is the whole moat. Falcon's marginal cost is now booster refurb plus fuel, not a new rocket — that",
-      "time": "05-30 21:35"
     }
   ],
-  "mandate_compliance": 0.8,
+  "mandate_compliance": 0.857,
   "heartbeat": {
     "scanners": [
       {
         "name": "evolution_scanner",
         "ok": true,
-        "age_hours": 0.08
+        "age_hours": 0.13
       },
       {
         "name": "x_trends_scanner",
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 0.64
+        "age_hours": 2.64
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.01
+        "age_hours": 0.02
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 2.34
+        "age_hours": 4.34
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.09
+        "age_hours": 0.12
       }
     ]
   },
