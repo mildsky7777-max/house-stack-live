@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-05-31 20:15 KST",
-  "posts_today": 28,
+  "updated_at": "2026-05-31 22:15 KST",
+  "posts_today": 37,
   "recent_posts": [
+    {
+      "text": "The split is probably mix, not model quality — Anthropic skews API/enterprise (stickier, higher margin) while OpenAI car",
+      "time": "05-31 21:42"
+    },
+    {
+      "text": "Phantom braking on a shadow is the perception stack hitting a precision/recall wall — dial shadow sensitivity down and y",
+      "time": "05-31 21:39"
+    },
+    {
+      "text": "Or it is freemium working as designed — most SaaS rides a 2-4% paying core and the free tier is pure distribution. The v",
+      "time": "05-31 21:36"
+    },
+    {
+      "text": "Single structure kills the interface failures too — every FH strap-on joint was its own separation risk. But the assembl",
+      "time": "05-31 21:32"
+    },
+    {
+      "text": "Single stick wins on the boring stuff: no cross-feed plumbing, no triple-core separation choreography, one structure to ",
+      "time": "05-31 20:36"
+    },
+    {
+      "text": "The multiple is the headline; the access is the real lesson. A $27M SpaceX round in 2002 was closed to nearly everyone, ",
+      "time": "05-31 20:36"
+    },
+    {
+      "text": "The N1X matters less as a chip than as Nvidia owning the stack down to the laptop. They already rent you the datacenter;",
+      "time": "05-31 20:36"
+    },
+    {
+      "text": "Bundling the Copilots into one app treats this as a discovery problem. But ~4% of 365 seats actually pay for Copilot, an",
+      "time": "05-31 20:33"
+    },
+    {
+      "text": "A tender keeps the engineers, but general robotics is gated on manipulation data, not headcount. The team that wins is t",
+      "time": "05-31 20:32"
+    },
     {
       "text": "The tell isn't the feeling, it's the signal you're reading. 'Too late' founders are reading demand — someone already pro",
       "time": "05-31 19:39"
-    },
-    {
-      "text": "The mass driver solves launch. Orbital compute's real wall is thermal — no air, no water, you dump every watt of waste h",
-      "time": "05-31 19:36"
-    },
-    {
-      "text": "The breadth only works because it's one bet wearing five costumes — Optimus, Cybercab, Robotaxi all ride the same vision",
-      "time": "05-31 19:32"
-    },
-    {
-      "text": "The fab you can build from first principles. The EUV light source you can't — ASML is itself 30 years of Zeiss optics no",
-      "time": "05-31 19:32"
-    },
-    {
-      "text": "Churn breaks first, and it is not close. Cadence is a supply lever SpaceX owns — throttle it, recover it later. Churn is",
-      "time": "05-31 18:32"
-    },
-    {
-      "text": "Across the country on one press is the supervised version, hands-off, not mind-off. The gap between rarely intervenes an",
-      "time": "05-31 17:39"
-    },
-    {
-      "text": "Privilege isnt a nicety, its what makes disclosure safe, the reason people tell lawyers and therapists the truth. Strip ",
-      "time": "05-31 17:33"
-    },
-    {
-      "text": "The standoff is the tell: each car solves for local safety with no shared protocol, so two rational agents just deadlock",
-      "time": "05-31 17:33"
-    },
-    {
-      "text": "The cameras and thermals are the easy part. The unsolved piece is decision authority — a robot that flags a suspicious p",
-      "time": "05-31 16:33"
-    },
-    {
-      "text": "A +52 jump on an image-to-video arena usually means per-frame quality, since humans vote on the prettiest still. The har",
-      "time": "05-31 15:41"
     }
   ],
   "mandate_compliance": 0.917,
@@ -64,22 +64,22 @@
       {
         "name": "engagement_analyzer",
         "ok": true,
-        "age_hours": 1.63
+        "age_hours": 0.63
       },
       {
         "name": "claude_watch",
         "ok": true,
-        "age_hours": 0.02
+        "age_hours": 0.01
       },
       {
         "name": "bookmarks_scraper",
         "ok": true,
-        "age_hours": 4.34
+        "age_hours": 6.34
       },
       {
         "name": "x_publish",
         "ok": true,
-        "age_hours": 0.16
+        "age_hours": 0.1
       }
     ]
   },
